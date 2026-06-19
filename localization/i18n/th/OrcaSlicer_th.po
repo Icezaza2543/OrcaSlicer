@@ -2273,10 +2273,10 @@ msgid "Flush Options"
 msgstr "ตัวเลือกการไล่เส้น"
 
 msgid "Flush into objects' infill"
-msgstr "ไล่เส้นเข้าไปใน ไส้ใน ของวัตถุ"
+msgstr "ไล่เส้นเข้าไปในไส้ในของวัตถุ"
 
 msgid "Flush into this object"
-msgstr "พุ่งเข้าไปในวัตถุนี้"
+msgstr "ไล่เส้นเข้าไปในวัตถุนี้"
 
 msgid "Flush into objects' support"
 msgstr "ไล่เส้นเข้าไปในส่วนรองรับของวัตถุ"
@@ -4594,7 +4594,7 @@ msgid "Wipe"
 msgstr "เช็ดหัวฉีด"
 
 msgid "Extrude"
-msgstr "ขับไล่"
+msgstr "ฉีดเส้น"
 
 msgid "Inner wall"
 msgstr "ผนังด้านใน"
@@ -4618,7 +4618,7 @@ msgid "Bridge"
 msgstr "สะพาน"
 
 msgid "Gap infill"
-msgstr "เติมช่องว่าง"
+msgstr "ไส้ในช่องว่าง"
 
 msgid "Skirt"
 msgstr "เส้นล้อมชิ้นงาน"
@@ -8453,10 +8453,10 @@ msgid "User Preset"
 msgstr "พรีเซ็ตผู้ใช้"
 
 msgid "Preset Inside Project"
-msgstr "โครงการภายในที่ตั้งไว้ล่วงหน้า"
+msgstr "พรีเซ็ตภายในโปรเจ็กต์"
 
 msgid "Detach from parent"
-msgstr "แยกออกจากผู้ปกครอง"
+msgstr "แยกออกจากพรีเซ็ตแม่"
 
 msgid "Name is unavailable."
 msgstr "ชื่อไม่พร้อมใช้งาน"
@@ -9297,16 +9297,16 @@ msgid "Complete print"
 msgstr "พิมพ์เสร็จ"
 
 msgid "Filament start G-code"
-msgstr "เส้นพลาสติกสตาร์ท G-code"
+msgstr "G-code เริ่มต้นของเส้นพลาสติก"
 
 msgid "Filament end G-code"
-msgstr "G-code สิ้นสุดเส้นพลาสติก"
+msgstr "G-code สิ้นสุดของเส้นพลาสติก"
 
 msgid "Wipe tower parameters"
-msgstr "เช็ดพารามิเตอร์ทาวเวอร์"
+msgstr "พารามิเตอร์ทาวเวอร์เช็ดหัวฉีด"
 
 msgid "Multi Filament"
-msgstr "มัลติฟิลาเมนท์"
+msgstr "เส้นพลาสติกแบบหลากหลาย"
 
 msgid "Tool change parameters with single extruder MM printers"
 msgstr "พารามิเตอร์การเปลี่ยนเครื่องมือด้วยเครื่องพิมพ์ MM ชุดดันเส้นเดี่ยว"
