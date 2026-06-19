@@ -180,13 +180,13 @@ msgid "Support generated"
 msgstr "สร้างส่วนรองรับแล้ว"
 
 msgid "Entering Paint-on supports"
-msgstr ""
+msgstr "เข้าสู่โหมดทาส่วนรองรับ"
 
 msgid "Leaving Paint-on supports"
-msgstr ""
+msgstr "ออกจากโหมดทาส่วนรองรับ"
 
 msgid "Paint-on supports editing"
-msgstr ""
+msgstr "แก้ไขการทาส่วนรองรับ"
 
 msgid "Gizmo-Place on Face"
 msgstr "Gizmo-Place บนหน้า"
@@ -272,16 +272,16 @@ msgid "To:"
 msgstr "ถึง:"
 
 msgid "Entering color painting"
-msgstr ""
+msgstr "เข้าสู่โหมดระบายสี"
 
 msgid "Leaving color painting"
-msgstr ""
+msgstr "ออกจากโหมดระบายสี"
 
 msgid "Color painting editing"
-msgstr ""
+msgstr "แก้ไขโหมดระบายสี"
 
 msgid "Paint-on fuzzy skin"
-msgstr "ระบายผิวฟัซซี"
+msgstr "ทาผิวฟัซซี"
 
 msgid "Add fuzzy skin"
 msgstr "เพิ่มผิวฟัซซี"
@@ -296,16 +296,16 @@ msgid "Warning: Fuzzy skin is disabled, painted fuzzy skin will not take effect!
 msgstr "คำเตือน: ผิวฟัซซีถูกปิดใช้งาน ผิวฟัซซีที่ทาสีจะไม่มีผล!"
 
 msgid "Enable painted fuzzy skin for this object"
-msgstr "เปิดใช้งานสกินฟัซซี่ที่ทาสีแล้วสำหรับวัตถุนี้"
+msgstr "เปิดใช้งานผิวฟัซซีที่ทาไว้สำหรับวัตถุนี้"
 
 msgid "Entering Paint-on fuzzy skin"
-msgstr ""
+msgstr "เข้าสู่โหมดทาผิวฟัซซี"
 
 msgid "Leaving Paint-on fuzzy skin"
-msgstr ""
+msgstr "ออกจากโหมดทาผิวฟัซซี"
 
 msgid "Paint-on fuzzy skin editing"
-msgstr ""
+msgstr "แก้ไขการทาผิวฟัซซี"
 
 msgid "Move"
 msgstr "ย้าย"
@@ -690,13 +690,13 @@ msgid "Delete connector"
 msgstr "ลบตัวเชื่อมต่อ"
 
 msgid "Entering Cut gizmo"
-msgstr ""
+msgstr "เข้าสู่กิซโมตัด"
 
 msgid "Leaving Cut gizmo"
-msgstr ""
+msgstr "ออกจากกิซโมตัด"
 
 msgid "Cut gizmo editing"
-msgstr ""
+msgstr "แก้ไขกิซโมตัด"
 
 msgid "Mesh name"
 msgstr "ชื่อเมช"
@@ -1439,7 +1439,7 @@ msgid "Restart selection"
 msgstr "เริ่มการเลือกใหม่"
 
 msgid "Esc"
-msgstr ""
+msgstr "Esc"
 
 msgid "Cancel a feature until exit"
 msgstr "ยกเลิกคุณลักษณะจนกว่าจะออก"
@@ -1539,10 +1539,10 @@ msgid "Flip by Face 2"
 msgstr "พลิกตามผิวหน้า 2"
 
 msgid "Entering Measure gizmo"
-msgstr ""
+msgstr "เข้าสู่กิซโมวัด"
 
 msgid "Leaving Measure gizmo"
-msgstr ""
+msgstr "ออกจากกิซโมวัด"
 
 msgid "Assemble"
 msgstr "ประกอบ"
@@ -1572,16 +1572,16 @@ msgid ""
 "It is recommended to assemble objects first,\n"
 "because they are restricted to the bed \n"
 "and only parts can be lifted."
-msgstr ""
+msgstr "แนะนำให้ประกอบวัตถุก่อน,\nเนื่องจากวัตถุถูกจำกัดอยู่บนฐานรองพิมพ์ \nและยกได้เฉพาะชิ้นส่วนเท่านั้น"
 
 msgid "Face and face assembly"
 msgstr "การประกอบผิวหน้าและผิวหน้า"
 
 msgid "Entering Assembly gizmo"
-msgstr ""
+msgstr "เข้าสู่กิซโมการประกอบ"
 
 msgid "Leaving Assembly gizmo"
-msgstr ""
+msgstr "ออกจากกิซโมการประกอบ"
 
 msgid "Ctrl+"
 msgstr "Ctrl+"
@@ -1806,13 +1806,13 @@ msgid "User logged out"
 msgstr "ผู้ใช้ออกจากระบบ"
 
 msgid "You are currently in Stealth Mode. To log into the Cloud, you need to disable Stealth Mode first."
-msgstr ""
+msgstr "คุณอยู่ในโหมดซ่อนตัวอยู่ หากต้องการเข้าสู่ระบบ Cloud ให้ปิดโหมดซ่อนตัวก่อน"
 
 msgid "Stealth Mode"
-msgstr ""
+msgstr "โหมดซ่อนตัว"
 
 msgid "Quit Stealth Mode"
-msgstr ""
+msgstr "ออกจากโหมดซ่อนตัว"
 
 msgid "new or open project file is not allowed during the slicing process!"
 msgstr "ไม่อนุญาตให้ใช้ไฟล์โครงการใหม่หรือเปิดในระหว่างกระบวนการแบ่งส่วน!"
@@ -1826,30 +1826,30 @@ msgstr "Orca Slicer เวอร์ชันต่ำเกินไปและ
 msgid ""
 "Cloud sync conflict: this preset has a newer version in OrcaCloud.\n"
 "Pull downloads the cloud copy. Force push overwrites it with your local preset."
-msgstr ""
+msgstr "ความขัดแย้งในการซิงก์ Cloud: ค่าที่ตั้งไว้ล่วงหน้านี้มีเวอร์ชันใหม่กว่าใน Orca Cloud\nดึงข้อมูลจะดาวน์โหลดสำเนาจากคลาวด์ บังคับส่งจะเขียนทับด้วยค่าที่ตั้งไว้ล่วงหน้าในเครื่องของคุณ"
 
 msgid ""
 "Cloud sync conflict: a preset with this name already exists in OrcaCloud.\n"
 "Pull downloads the cloud copy. Force push overwrites it with your local preset."
-msgstr ""
+msgstr "ความขัดแย้งในการซิงก์ Cloud: มีค่าที่ตั้งไว้ล่วงหน้าชื่อนี้อยู่ใน Orca Cloud แล้ว\nดึงข้อมูลจะดาวน์โหลดสำเนาจากคลาวด์ บังคับส่งจะเขียนทับด้วยค่าที่ตั้งไว้ล่วงหน้าในเครื่องของคุณ"
 
 msgid ""
 "Cloud sync conflict: a preset with the same name was previously deleted from the cloud.\n"
 "Delete will delete your local preset. Force push overwrites it with your local preset."
-msgstr ""
+msgstr "ความขัดแย้งในการซิงก์ Cloud: ค่าที่ตั้งไว้ล่วงหน้าชื่อเดียวกันเคยถูกลบจากคลาวด์แล้ว\nลบจะลบค่าที่ตั้งไว้ล่วงหน้าในเครื่องของคุณ บังคับส่งจะเขียนทับด้วยค่าที่ตั้งไว้ล่วงหน้าในเครื่องของคุณ"
 
 msgid ""
 "Cloud sync conflict: there was an unexpected or unidentified preset conflict.\n"
 "Pull downloads the cloud copy. Force push overwrites it with your local preset."
-msgstr ""
+msgstr "ความขัดแย้งในการซิงก์ Cloud: พบความขัดแย้งของค่าที่ตั้งไว้ล่วงหน้าที่ไม่คาดคิดหรือระบุไม่ได้\nดึงข้อมูลจะดาวน์โหลดสำเนาจากคลาวด์ บังคับส่งจะเขียนทับด้วยค่าที่ตั้งไว้ล่วงหน้าในเครื่องของคุณ"
 
 msgid ""
 "Force push will overwrite the cloud copy with your local preset changes.\n"
 "Do you want to continue?"
-msgstr ""
+msgstr "การบังคับส่งจะเขียนทับสำเนาบนคลาวด์ด้วยการเปลี่ยนแปลงค่าที่ตั้งไว้ล่วงหน้าในเครื่องของคุณ\nคุณต้องการดำเนินการต่อหรือไม่?"
 
 msgid "Resolve cloud sync conflict"
-msgstr ""
+msgstr "แก้ไขความขัดแย้งการซิงค์คลาวด์"
 
 msgid "Retrieving printer information, please try again later."
 msgstr "กำลังดึงข้อมูลเครื่องพิมพ์ โปรดลองอีกครั้งในภายหลัง"
@@ -2135,7 +2135,7 @@ msgid "Orca Cube"
 msgstr "ออร์ก้าคิวบ์"
 
 msgid "OrcaSliced Combo"
-msgstr ""
+msgstr "OrcaSliced Combo"
 
 msgid "Orca Tolerance Test"
 msgstr "การทดสอบค่าความเผื่อ Orca"
@@ -2681,7 +2681,7 @@ msgid "\"%s\" part's mesh contains errors. Please repair it first."
 msgstr "mesh ของส่วน \"%s\" มีข้อผิดพลาด กรุณาซ่อมแซมก่อน."
 
 msgid "Additional process preset"
-msgstr "การตั้งค่าล่วงหน้าของกระบวนการเพิ่มไส้ใน"
+msgstr "พรีเซ็ตกระบวนการเพิ่มเติม"
 
 msgid "Remove parameter"
 msgstr "ลบพารามิเตอร์"
@@ -3022,49 +3022,49 @@ msgid "The minmum temperature should not be less than "
 msgstr "อุณหภูมิต่ำสุดไม่ควรต่ำกว่า"
 
 msgid "Type to filter..."
-msgstr ""
+msgstr "พิมพ์เพื่อกรอง..."
 
 msgid "All"
 msgstr "ทั้งหมด"
 
 msgid "No selected items..."
-msgstr ""
+msgstr "ไม่มีรายการที่เลือก..."
 
 msgid "All items selected..."
-msgstr ""
+msgstr "เลือกรายการทั้งหมดแล้ว..."
 
 msgid "No matching items..."
-msgstr ""
+msgstr "ไม่พบรายการที่ตรงกัน..."
 
 msgid "Deselect All"
 msgstr "ยกเลิกการเลือกทั้งหมด"
 
 msgid "Select visible"
-msgstr ""
+msgstr "เลือกที่มองเห็น"
 
 msgid "Deselect visible"
-msgstr ""
+msgstr "ยกเลิกการเลือกที่มองเห็น"
 
 msgid "Filter selected"
-msgstr ""
+msgstr "กรองรายการที่เลือก"
 
 msgid "Filter nonSelected"
-msgstr ""
+msgstr "กรองรายการที่ไม่ได้เลือก"
 
 msgid "Simple settings"
-msgstr ""
+msgstr "การตั้งค่าแบบง่าย"
 
 msgid "Advanced settings"
 msgstr "การตั้งค่าขั้นสูง"
 
 msgid "Expert settings"
-msgstr ""
+msgstr "การตั้งค่าขั้นสูง"
 
 msgid "Developer mode"
 msgstr "โหมดนักพัฒนา"
 
 msgid "Launch troubleshoot center"
-msgstr ""
+msgstr "เปิดศูนย์แก้ปัญหา"
 
 msgid ""
 "All the selected objects are on a locked plate.\n"
@@ -3295,7 +3295,7 @@ msgid "There is no valid surface for text projection."
 msgstr "ไม่มีพื้นผิวที่ถูกต้องสำหรับการฉายข้อความ"
 
 msgid "An unexpected error occurred"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดที่ไม่คาดคิด"
 
 msgid "Thermal Preconditioning for first layer optimization"
 msgstr "การปรับสภาพล่วงหน้าด้วยความร้อนเพื่อการเพิ่มประสิทธิภาพชั้นแรก"
@@ -5086,7 +5086,7 @@ msgid "Outline"
 msgstr "เส้นขอบ"
 
 msgid "Realistic View"
-msgstr ""
+msgstr "มุมมองสมจริง"
 
 msgid "Perspective"
 msgstr "เปอร์สเปกทีฟ"
@@ -5357,7 +5357,7 @@ msgid "Show Configuration Folder"
 msgstr "แสดงโฟลเดอร์การกำหนดค่า"
 
 msgid "Troubleshoot Center"
-msgstr ""
+msgstr "ศูนย์แก้ปัญหา"
 
 msgid "Open Network Test"
 msgstr "เปิดทดสอบเครือข่าย"
@@ -5776,7 +5776,7 @@ msgid "Synchronization"
 msgstr "การซิงโครไนซ์"
 
 msgid "The device cannot handle more conversations. Please retry later."
-msgstr "อุปกรณ์ไม่สามารถรองรับการสนทนาเพิ่มไส้ในได้ โปรดลองอีกครั้งในภายหลัง"
+msgstr "อุปกรณ์ไม่สามารถรองรับการสนทนาเพิ่มเติมได้ โปรดลองอีกครั้งในภายหลัง"
 
 msgid "Player is malfunctioning. Please reinstall the system player."
 msgstr "เครื่องเล่นทำงานผิดปกติ กรุณาติดตั้งเครื่องเล่นระบบใหม่"
@@ -6598,10 +6598,10 @@ msgid "Model file downloaded."
 msgstr "ดาวน์โหลดไฟล์โมเดลแล้ว"
 
 msgid "Pull"
-msgstr ""
+msgstr "ดึง"
 
 msgid "Force push"
-msgstr ""
+msgstr "บังคับพุช"
 
 msgid "Shared profiles may be available for this printer."
 msgstr "โปรไฟล์ที่ใช้ร่วมกันอาจพร้อมใช้งานสำหรับเครื่องพิมพ์นี้"
@@ -7461,10 +7461,10 @@ msgid "Unable to perform boolean operation on model meshes. Only positive parts 
 msgstr "ไม่สามารถดำเนินการบูลีนบนโมเดลเมชได้ เฉพาะส่วนที่เป็นบวกเท่านั้นที่จะถูกส่งออก"
 
 msgid "Flashforge host is not available."
-msgstr ""
+msgstr "โฮสต์ Flashforge ไม่พร้อมใช้งาน"
 
 msgid "Unable to log in to the Flashforge printer."
-msgstr ""
+msgstr "ไม่สามารถเข้าสู่ระบบเครื่องพิมพ์ Flashforge ได้"
 
 msgid "Is the printer ready? Is the print sheet in place, empty and clean?"
 msgstr "เครื่องพิมพ์พร้อมหรือยัง? แผ่นพิมพ์อยู่ในตำแหน่ง ว่างเปล่า และสะอาดหรือไม่"
@@ -7574,7 +7574,7 @@ msgid "isometric"
 msgstr "มีมิติเท่ากัน"
 
 msgid "top_front"
-msgstr ""
+msgstr "บนหน้า"
 
 msgid "top"
 msgstr "สูงสุด"
@@ -7937,22 +7937,22 @@ msgid "Graphics"
 msgstr "กราฟิก"
 
 msgid "Phong shading"
-msgstr ""
+msgstr "การแรเงาแบบ Phong"
 
 msgid "Uses Phong shading inside realistic view."
-msgstr ""
+msgstr "ใช้การแรเงาแบบ Phong ในมุมมองสมจริง"
 
 msgid "SSAO ambient occlusion"
-msgstr ""
+msgstr "SSAO การบดบังแสงแวดล้อม"
 
 msgid "Applies SSAO in realistic view."
-msgstr ""
+msgstr "ใช้ SSAO ในมุมมองแบบสมจริง"
 
 msgid "Shadows"
-msgstr ""
+msgstr "เงา"
 
 msgid "Renders cast shadows on the plate in realistic view."
-msgstr ""
+msgstr "แสดงเงาแบบทอดบนเพลตในมุมมองแบบสมจริง"
 
 msgid "Anti-aliasing"
 msgstr "ต่อต้านนามแฝง"
@@ -8023,13 +8023,13 @@ msgstr "โหมดซ่อนตัว"
 msgid ""
 "This disables all cloud features, including Orca Cloud profile syncing. Users who prefer to work entirely offline can enable this option.\n"
 "Note: When Stealth Mode is enabled, your user profiles will not be backed up to Orca Cloud."
-msgstr ""
+msgstr "ตัวเลือกนี้จะปิดการใช้งานฟีเจอร์คลาวด์ทั้งหมด รวมถึงการซิงก์โปรไฟล์ Orca Cloud ผู้ใช้ที่ต้องการทำงานแบบออฟไลน์ทั้งหมดสามารถเปิดตัวเลือกนี้ได้\nหมายเหตุ: เมื่อเปิดโหมดซ่อนตัว โปรไฟล์ผู้ใช้ของคุณจะไม่ถูกสำรองไปยัง Orca Cloud"
 
 msgid "Hide login side panel"
-msgstr ""
+msgstr "ซ่อนแผงเข้าสู่ระบบด้านข้าง"
 
 msgid "Hide the login side panel on the home page."
-msgstr ""
+msgstr "ซ่อนแผงเข้าสู่ระบบด้านข้างในหน้าแรก"
 
 msgid "Network test"
 msgstr "ทดสอบเครือข่าย"
@@ -8080,10 +8080,10 @@ msgid "Color only"
 msgstr "สีเท่านั้น"
 
 msgid "Bambu network plug-in"
-msgstr ""
+msgstr "ปลั๊กอินเครือข่าย Bambu"
 
 msgid "Enable Bambu network plug-in"
-msgstr ""
+msgstr "เปิดใช้งานปลั๊กอินเครือข่าย Bambu"
 
 msgid "Network plug-in version"
 msgstr "เวอร์ชันปลั๊กอินเครือข่าย"
@@ -8124,10 +8124,10 @@ msgid "Associate files to OrcaSlicer"
 msgstr "เชื่อมโยงไฟล์กับ OrcaSlicer"
 
 msgid "File associations for the Microsoft Store version are managed by Windows Settings."
-msgstr ""
+msgstr "การเชื่อมโยงไฟล์สำหรับเวอร์ชัน Microsoft Store จัดการผ่านการตั้งค่า Windows"
 
 msgid "Open Windows Default Apps Settings"
-msgstr ""
+msgstr "เปิดการตั้งค่าแอปเริ่มต้นของ Windows"
 
 msgid "Associate 3MF files to OrcaSlicer"
 msgstr "เชื่อมโยงไฟล์ 3MF กับ OrcaSlicer"
@@ -8173,10 +8173,10 @@ msgstr ""
 "น่าทดลองมาก! ช้าและอาจสร้างสิ่งประดิษฐ์"
 
 msgid "Show unsupported presets"
-msgstr ""
+msgstr "แสดงค่าที่ตั้งไว้ล่วงหน้าที่ไม่รองรับ"
 
 msgid "Show incompatible/unsupported presets in the printer and filament dropdown lists. These presets cannot be selected."
-msgstr ""
+msgstr "แสดงค่าที่ตั้งไว้ล่วงหน้าที่ไม่เข้ากันหรือไม่รองรับในรายการเลือกเครื่องพิมพ์และเส้นพลาสติก ไม่สามารถเลือกค่าที่ตั้งไว้ล่วงหน้าเหล่านี้ได้"
 
 msgid "Allow Abnormal Storage"
 msgstr "อนุญาตให้จัดเก็บผิดปกติ"
@@ -8827,7 +8827,7 @@ msgid "File upload timed out. Please check if the firmware version supports this
 msgstr "การอัปโหลดไฟล์หมดเวลา โปรดตรวจสอบว่าเวอร์ชันเฟิร์มแวร์รองรับการทำงานนี้หรือไม่ หรือตรวจสอบว่าเครื่องพิมพ์ทำงานอย่างถูกต้องหรือไม่"
 
 msgid "Sending failed, please try again!"
-msgstr ""
+msgstr "ส่งไม่สำเร็จ กรุณาลองอีกครั้ง!"
 
 msgid "Slice complete"
 msgstr "สไลซ์เสร็จแล้ว"
@@ -9208,7 +9208,7 @@ msgid ""
 msgid_plural ""
 "Following lines %s contain reserved keywords.\n"
 "Please remove them, or G-code visualization and print time estimation will be broken."
-msgstr[0] ""
+msgstr[0] "บรรทัดถัดไป %s มีคีย์เวิร์ดที่สงวนไว้\nกรุณาลบออก มิฉะนั้นการแสดงผล G-code และการประมาณเวลาพิมพ์จะทำงานผิดพลาด"
 
 msgid "Reserved keywords found"
 msgstr "พบคีย์เวิร์ดที่สงวนไว้"
@@ -9462,7 +9462,7 @@ msgid ""
 "The Retract before wipe option could be only 100% when using the Firmware Retraction mode.\n"
 "\n"
 "Shall I set it to 100% in order to enable Firmware Retraction?"
-msgstr ""
+msgstr "ตัวเลือก Retract before wipe ต้องเป็น 100% เท่านั้นเมื่อใช้โหมด Firmware Retraction\n\nต้องการตั้งค่าเป็น 100% เพื่อเปิดใช้งาน Firmware Retraction หรือไม่?"
 
 msgid "Firmware Retraction"
 msgstr "การเพิกถอนเฟิร์มแวร์"
@@ -10360,20 +10360,20 @@ msgid "New version of Orca Slicer"
 msgstr "Orca Slicer เวอร์ชันใหม่"
 
 msgid "Check on Microsoft Store"
-msgstr ""
+msgstr "ตรวจสอบใน Microsoft Store"
 
 msgid "Check on GitHub"
 msgstr "ตรวจสอบบน GitHub"
 
 msgid "Open Microsoft Store"
-msgstr ""
+msgstr "เปิด Microsoft Store"
 
 msgid "Skip this Version"
 msgstr "ข้ามเวอร์ชันนี้"
 
 #, c-format, boost-format
 msgid "New version available: %s. Please update OrcaSlicer from the Microsoft Store."
-msgstr ""
+msgstr "มีเวอร์ชันใหม่: %s กรุณาอัปเดต OrcaSlicer จาก Microsoft Store"
 
 msgid "Confirm and Update Nozzle"
 msgstr "ยืนยันและอัปเดตหัวฉีด"
@@ -10848,22 +10848,22 @@ msgid "Layer height cannot exceed nozzle diameter."
 msgstr "ความสูงของชั้นต้องไม่เกินเส้นผ่านศูนย์กลางหัวฉีด"
 
 msgid "Bridge line width must not exceed nozzle diameter"
-msgstr ""
+msgstr "ความกว้างเส้นสะพานต้องไม่เกินเส้นผ่านศูนย์กลางหัวฉีด"
 
 msgid "\"G92 E0\" was found in before_layer_change_gcode, but the G or E are not uppercase. Please change them to the exact uppercase \"G92 E0\"."
-msgstr ""
+msgstr "พบ \"G92 E0\" ใน before_layer_change_gcode แต่ G หรือ E ไม่ได้เป็นตัวพิมพ์ใหญ่ กรุณาเปลี่ยนให้ตรงกับ \"G92 E0\" ตัวพิมพ์ใหญ่ทุกตัว"
 
 msgid "\"G92 E0\" was found in layer_change_gcode, but the G or E are not uppercase. Please change them to the exact uppercase \"G92 E0\"."
-msgstr ""
+msgstr "พบ \"G92 E0\" ใน layer_change_gcode แต่ G หรือ E ไม่ได้เป็นตัวพิมพ์ใหญ่ กรุณาเปลี่ยนให้ตรงกับ \"G92 E0\" ตัวพิมพ์ใหญ่ทุกตัว"
 
 msgid "Relative extruder addressing requires resetting the extruder position at each layer to prevent loss of floating point accuracy. Add \"G92 E0\" to layer_gcode."
 msgstr "การระบุตำแหน่งชุดดันเส้นแบบสัมพันธ์จำเป็นต้องรีเซ็ตตำแหน่งชุดดันเส้นในแต่ละชั้น เพื่อป้องกันการสูญเสียความแม่นยำของจุดลอยตัว เพิ่ม \"G92 E0\" ลงใน layer_gcode"
 
 msgid "\"G92 E0\" was found in before_layer_change_gcode, which is incompatible with absolute extruder addressing."
-msgstr ""
+msgstr "พบ \"G92 E0\" ใน before_layer_change_gcode ซึ่งไม่เข้ากันกับการกำหนดที่อยู่ชุดดันเส้นแบบสัมบูรณ์"
 
 msgid "\"G92 E0\" was found in layer_change_gcode, which is incompatible with absolute extruder addressing."
-msgstr ""
+msgstr "พบ \"G92 E0\" ใน layer_change_gcode ซึ่งไม่เข้ากันกับการกำหนดที่อยู่ชุดดันเส้นแบบสัมบูรณ์"
 
 #, c-format, boost-format
 msgid "Plate %d: %s does not support filament %s"
@@ -10936,22 +10936,22 @@ msgid "Extruder printable area"
 msgstr "พื้นที่การพิมพ์ของชุดดันเส้น"
 
 msgid "Support parallel printheads"
-msgstr ""
+msgstr "รองรับหัวพิมพ์แบบขนาน"
 
 msgid "Enable printer settings for machines that can use multiple printheads in parallel."
-msgstr ""
+msgstr "เปิดการตั้งค่าเครื่องพิมพ์สำหรับเครื่องที่สามารถใช้หัวพิมพ์หลายหัวพร้อมกันแบบขนาน"
 
 msgid "Parallel printheads count"
-msgstr ""
+msgstr "จำนวนหัวพิมพ์แบบขนาน"
 
 msgid "Set the number of parallel printheads for machines like OrangeStorm Giga printer."
-msgstr ""
+msgstr "ตั้งจำนวนหัวพิมพ์แบบขนานสำหรับเครื่องเช่นเครื่องพิมพ์ OrangeStorm Giga"
 
 msgid "Parallel printheads bed exclude areas"
-msgstr ""
+msgstr "พื้นที่ยกเว้นบนเพลตตามจำนวนหัวพิมพ์แบบขนาน"
 
 msgid "Ordered list of bed exclude areas by parallel printhead count. Item 1 applies to one printhead, item 2 to two printheads, and so on. Leave an item empty for no excluded area."
-msgstr ""
+msgstr "รายการพื้นที่ยกเว้นบนเพลตตามจำนวนหัวพิมพ์แบบขนาน รายการที่ 1 ใช้กับหัวพิมพ์ 1 หัว รายการที่ 2 ใช้กับ 2 หัว และต่อไปเรื่อยๆ ปล่อยรายการว่างหากไม่ต้องการพื้นที่ยกเว้น"
 
 msgid "Excluded bed area"
 msgstr "พื้นที่ฐานพิมพ์ที่ยกเว้น"
@@ -11020,10 +11020,10 @@ msgid "Allow controlling BambuLab's printer through 3rd party print hosts."
 msgstr "อนุญาตให้ควบคุมเครื่องพิมพ์ของ BambuLab ผ่านโฮสต์การพิมพ์ของบุคคลที่สาม"
 
 msgid "Use 3MF instead of G-code"
-msgstr ""
+msgstr "ใช้ 3MF แทน G-code"
 
 msgid "Enable this if the printer accepts a 3MF file as the print job. When enabled, Orca Slicer sends the sliced file as a .gcode.3mf, instead of a plain .gcode file."
-msgstr ""
+msgstr "เปิดใช้งานหากเครื่องพิมพ์รับไฟล์ 3MF เป็นงานพิมพ์ เมื่อเปิดใช้งาน OrcaSlicer จะส่งไฟล์ที่สไลซ์แล้วเป็น .gcode.3mf แทนไฟล์ .gcode ธรรมดา"
 
 msgid "Printer Agent"
 msgstr "ตัวแทนเครื่องพิมพ์"
@@ -11050,10 +11050,10 @@ msgid "Orca Slicer can upload G-code files to a printer host. This field should 
 msgstr "Orca Slicer สามารถอัปโหลดไฟล์ G-code ไปยังโฮสต์เครื่องพิมพ์ได้ ฟิลด์นี้ควรมีคีย์ API หรือรหัสผ่านที่จำเป็นสำหรับการตรวจสอบสิทธิ์"
 
 msgid "Serial Number"
-msgstr ""
+msgstr "หมายเลขซีเรียล"
 
 msgid "Flashforge local API requires the printer serial number."
-msgstr ""
+msgstr "Flashforge local API ต้องการหมายเลขซีเรียลของเครื่องพิมพ์"
 
 msgid "Name of the printer."
 msgstr "ชื่อของเครื่องพิมพ์"
@@ -11261,7 +11261,7 @@ msgid ""
 " - The optimal automatic angle + this value: If 'Relative Bridge Angle' is enabled\n"
 "\n"
 "Use 180° for zero absolute angle."
-msgstr ""
+msgstr "แทนที่มุมสะพานด้านนอก\nหากปล่อยเป็นศูนย์ มุมสะพานจะคำนวณอัตโนมัติสำหรับสะพานแต่ละจุด\nมิฉะนั้นจะใช้มุมที่กำหนดตาม:\n - พิกัดสัมบูรณ์\n - พิกัดสัมบูรณ์ + การหมุนโมเดล: หากเปิดใช้งานจัดทิศทางไส้ในให้สอดคล้องกับโมเดล\n - มุมอัตโนมัติที่เหมาะสม + ค่านี้: หากเปิดใช้งาน 'มุมสะพานแบบสัมพันธ์'\n\nใช้ 180° สำหรับมุมสัมบูรณ์ศูนย์"
 
 msgid "Internal bridge infill direction"
 msgstr "ทิศทางไส้ในสะพานภายใน"
@@ -11275,13 +11275,13 @@ msgid ""
 " - The optimal automatic angle + this value: If 'Relative Bridge Angle' is enabled\n"
 "\n"
 "Use 180° for zero absolute angle."
-msgstr ""
+msgstr "แทนที่มุมสะพานด้านใน\nหากปล่อยเป็นศูนย์ มุมสะพานจะคำนวณอัตโนมัติสำหรับสะพานแต่ละจุด\nมิฉะนั้นจะใช้มุมที่กำหนดตาม:\n - พิกัดสัมบูรณ์\n - พิกัดสัมบูรณ์ + การหมุนโมเดล: หากเปิดใช้งานจัดทิศทางไส้ในให้สอดคล้องกับโมเดล\n - มุมอัตโนมัติที่เหมาะสม + ค่านี้: หากเปิดใช้งาน 'มุมสะพานแบบสัมพันธ์'\n\nใช้ 180° สำหรับมุมสัมบูรณ์ศูนย์"
 
 msgid "Relative bridge angle"
-msgstr ""
+msgstr "มุมสะพานแบบสัมพันธ์"
 
 msgid "When enabled, the bridge angle values are added to the automatically calculated bridge direction instead of overriding it."
-msgstr ""
+msgstr "เมื่อเปิดใช้งาน ค่ามุมสะพานจะถูกบวกเข้ากับทิศทางสะพานที่คำนวณอัตโนมัติ แทนที่จะแทนที่ค่าเดิม"
 
 msgid "External bridge density"
 msgstr "ความหนาแน่นของสะพานภายนอก"
@@ -11297,7 +11297,7 @@ msgid ""
 "- Lower than 100% density (Min 10%):\n"
 "  - Pros: Can create a string-like first layer. Faster and with better cooling because there is more space for air to circulate around the extruded bridge.\n"
 "  - Cons: May lead to sagging and poorer surface finish."
-msgstr ""
+msgstr "ควบคุมความหนาแน่น (ระยะห่าง) ของเส้นสะพานด้านนอก\nตามทฤษฎี 100% หมายถึงสะพานแน่น แต่เนื่องจากเส้นสะพานมีแนวโน้มย้อยตัว 100% อาจไม่เพียงพอ\n\n- ความหนาแน่นมากกว่า 100% (แนะนำสูงสุด 125%):\n  - ข้อดี: ผิวสะพานเรียบขึ้น เพราะเส้นที่ทับซ้อนกันให้การรองรับเพิ่มเติมระหว่างพิมพ์\n  - ข้อเสีย: อาจเกิดการดันเส้นเกิน ซึ่งลดคุณภาพผิวด้านล่างและด้านบน และเพิ่มความเสี่ยงการบิดเบี้ยว\n\n- ความหนาแน่นต่ำกว่า 100% (ต่ำสุด 10%):\n  - ข้อดี: ชั้นแรกอาจเป็นเส้นแบบเส้นใย พิมพ์เร็วขึ้นและระบายความร้อนดีขึ้นเพราะมีพื้นที่ให้อากาศหมุนเวียนรอบเส้นสะพาน\n  - ข้อเสีย: อาจย้อยตัวและผิวไม่เรียบ"
 
 msgid "Internal bridge density"
 msgstr "ความหนาแน่นสะพานภายใน"
@@ -11315,7 +11315,7 @@ msgid ""
 "  - Cons: May reduce internal support, increasing the risk of sagging and top surface defects.\n"
 "\n"
 "This option works particularly well when combined with the second internal bridge over infill option to improve bridging further before solid infill is extruded."
-msgstr ""
+msgstr "ควบคุมความหนาแน่น (ระยะห่าง) ของเส้นสะพานด้านใน\nสะพานด้านในทำหน้าที่เป็นส่วนรองรับชั่วคราวระหว่างไส้ในแบบโปร่งกับไส้ในแบบทึบด้านบน และส่งผลต่อคุณภาพผิวด้านบนอย่างมาก\n\n- ความหนาแน่นมากกว่า 100% (แนะนำสูงสุด 125%):\n  - ข้อดี: เพิ่มความแข็งแรงของสะพานด้านในและการรองรับใต้ชั้นบน ลดการย้อยตัวและปรับปรุงผิวด้านบน\n  - ข้อเสีย: ใช้วัสดุและเวลาพิมพ์มากขึ้น ความหนาแน่นเกินไปอาจทำให้ดันเส้นเกินและเกิดความเครียดภายใน\n\n- ความหนาแน่นต่ำกว่า 100% (ต่ำสุด 10%):\n  - ข้อดี: ลดการโป่งของผิวด้านบนและระบายความร้อนดีขึ้น (อากาศไหลผ่านสะพานได้มากขึ้น) และอาจพิมพ์เร็วขึ้น\n  - ข้อเสีย: ลดการรองรับภายใน เพิ่มความเสี่ยงการย้อยตัวและข้อบกพร่องบนผิวด้านบน\n\nตัวเลือกนี้ทำงานได้ดีเป็นพิเศษเมื่อใช้ร่วมกับตัวเลือกสะพานด้านในชั้นที่สองเหนือไส้ใน เพื่อปรับปรุงการพิมพ์สะพานก่อนอัดไส้ในแบบทึบ"
 
 msgid "Bridge flow ratio"
 msgstr "อัตราส่วนการไหลสะพาน"
@@ -11326,7 +11326,7 @@ msgid ""
 "Values below 1.0: Reduce the amount of material while adjusting line spacing to maintain contact. This can improve sagging.\n"
 "\n"
 "The actual bridge flow used is calculated by multiplying this value with the filament flow ratio, and if set, the object's flow ratio."
-msgstr ""
+msgstr "ค่านี้กำหนดความหนาของชั้นสะพานด้านนอก (ที่มองเห็นได้)\nค่ามากกว่า 1.0: เพิ่มปริมาณวัสดุโดยคงระยะห่างเส้น ช่วยเพิ่มการสัมผัสและความแข็งแรงของเส้น\nค่าน้อยกว่า 1.0: ลดปริมาณวัสดุโดยปรับระยะห่างเส้นเพื่อคงการสัมผัส ช่วยลดการย้อยตัว\n\nอัตราการไหลของสะพานจริงคำนวณจากค่านี้คูณอัตราการไหลของเส้นพลาสติก และหากตั้งค่าไว้ อัตราการไหลของวัตถุ"
 
 msgid ""
 "Line width of the Bridge. If expressed as a %, it will be computed over the nozzle diameter.\n"
@@ -11334,7 +11334,7 @@ msgid ""
 "\n"
 "The maximum value is 100% or the nozzle diameter.\n"
 "If set to 0, the line width will match the Internal solid infill width."
-msgstr ""
+msgstr "ความกว้างเส้นของสะพาน หากระบุเป็น % จะคำนวณจากเส้นผ่านศูนย์กลางหัวฉีด\nแนะนำให้ใช้ร่วมกับความหนาแน่นสะพานหรืออัตราการไหลสะพานที่สูงขึ้น\n\nค่าสูงสุดคือ 100% หรือเส้นผ่านศูนย์กลางหัวฉีด\nหากตั้งเป็น 0 ความกว้างเส้นจะเท่ากับความกว้างไส้ในแบบทึบภายใน"
 
 msgid "Internal bridge flow ratio"
 msgstr "อัตราส่วนการไหลสะพานภายใน"
@@ -11345,7 +11345,7 @@ msgid ""
 "Values below 1.0: Reduce the amount of material while adjusting line spacing to maintain contact. This can improve sagging.\n"
 "\n"
 "The actual bridge flow used is calculated by multiplying this value with the filament flow ratio, and if set, the object's flow ratio."
-msgstr ""
+msgstr "ค่านี้กำหนดความหนาของชั้นสะพานด้านใน ซึ่งเป็นชั้นแรกเหนือไส้ในแบบโปร่ง การเพิ่มค่าอาจเพิ่มความแข็งแรงและคุณภาพชั้นบน\nค่ามากกว่า 1.0: เพิ่มปริมาณวัสดุโดยคงระยะห่างเส้น ช่วยเพิ่มการสัมผัสและความแข็งแรงของเส้น\nค่าน้อยกว่า 1.0: ลดปริมาณวัสดุโดยปรับระยะห่างเส้นเพื่อคงการสัมผัส ช่วยลดการย้อยตัว\n\nอัตราการไหลของสะพานจริงคำนวณจากค่านี้คูณอัตราการไหลของเส้นพลาสติก และหากตั้งค่าไว้ อัตราการไหลของวัตถุ"
 
 msgid "Top surface flow ratio"
 msgstr "อัตราส่วนการไหลผิวด้านบน"
@@ -11515,10 +11515,10 @@ msgid "Use only one wall on first layer, to give more space to the bottom infill
 msgstr "ใช้ผนังเพียงชั้นเดียวในชั้นแรก เพื่อให้มีพื้นที่ด้านล่างมากขึ้น"
 
 msgid "Extra perimeters on overhangs"
-msgstr "เส้นรอบวงเพิ่มไส้ในบนส่วนยื่น"
+msgstr "เส้นรอบวงเพิ่มเติมบนส่วนยื่น"
 
 msgid "Create additional perimeter paths over steep overhangs and areas where bridges cannot be anchored."
-msgstr "สร้างเส้นทางรอบขอบเพิ่มไส้ในเหนือส่วนยื่นสูงชันและพื้นที่ที่ไม่สามารถทอดสมอสะพานได้"
+msgstr "สร้างเส้นทางเส้นรอบวงเพิ่มเติมเหนือส่วนยื่นชันและพื้นที่ที่ไม่สามารถยึดสะพานได้"
 
 msgid "Reverse on even"
 msgstr "กลับด้านหน้าเลขคู่"
@@ -11612,7 +11612,7 @@ msgid ""
 "\n"
 "Note: When this option is enabled, overhang perimeters are treated like overhangs, meaning the overhang speed is applied even if the overhanging perimeter is part of a bridge.\n"
 "For example, when the perimeters are 100% overhanging, with no wall supporting them from underneath, the 100% overhang speed will be applied."
-msgstr ""
+msgstr "เปิดใช้งานตัวเลือกนี้เพื่อชะลอการพิมพ์ในพื้นที่ที่เส้นรอบวงอาจงอขึ้น\nตัวอย่างเช่น จะชะลอเพิ่มเติมเมื่อพิมพ์ส่วนยื่นที่มุมแหลม เช่นด้านหน้าของตัวเรือ Benchy ช่วยลดการงอที่สะสมข้ามหลายชั้น\n\nโดยทั่วไปแนะนำให้เปิดใช้งาน เว้นแต่ระบบระบายความร้อนของเครื่องพิมพ์แรงพอ หรือความเร็วพิมพ์ช้าพอที่เส้นรอบวงจะไม่งอ\nหากพิมพ์ด้วยความเร็วเส้นรอบวงด้านนอกสูง พารามิเตอร์นี้อาจทำให้เกิดข้อบกพร่องบนผนังเมื่อชะลอ เนื่องจากความแตกต่างของความเร็วพิมพ์ที่อาจมาก ทำให้ชุดดันเส้นตอบสนองการเปลี่ยนอัตราการไหลไม่ทัน\nสาเหตุหลักของข้อบกพร่องเหล่านี้มักมาจากการปรับ PA คลาดเคลื่อนเล็กน้อย โดยเฉพาะเมื่อใช้ร่วมกับ PA smooth time ที่สูง\n\nคำแนะนำเมื่อเปิดใช้งานตัวเลือกนี้:\n1. ลด Pressure Advance smooth time เป็น 0.015 - 0.02 เพื่อให้ชุดดันเส้นตอบสนองการเปลี่ยนความเร็วได้เร็วขึ้น\n2. เพิ่มความเร็วพิมพ์ขั้นต่ำเพื่อจำกัดขนาดการชะลอและลดความแตกต่างระหว่างช่วงเร็วและช้า\n3. หากยังมีข้อบกพร่อง ให้เปิดใช้งาน Extrusion Rate Smoothing (ERS) เพื่อปรับการเปลี่ยนอัตราการไหลให้เรียบขึ้น\n\nหมายเหตุ: เมื่อเปิดใช้งานตัวเลือกนี้ เส้นรอบวงส่วนยื่นจะถูกจัดเป็นส่วนยื่น หมายความว่าจะใช้ความเร็วส่วนยื่นแม้เส้นรอบวงนั้นเป็นส่วนหนึ่งของสะพาน\nตัวอย่างเช่น เมื่อเส้นรอบวงยื่น 100% โดยไม่มีผนังรองรับจากด้านล่าง จะใช้ความเร็วส่วนยื่น 100%"
 
 msgid "mm/s or %"
 msgstr "มิลลิเมตร/วินาที หรือ %"
@@ -11814,7 +11814,7 @@ msgid ""
 "If enabled, bridge extrusion uses a line height equal to the nozzle diameter.\n"
 "This increases bridge strength and reliability, allowing longer spans, but may worsen appearance.\n"
 "If disabled, bridges may look better but are generally reliable only for shorter spans."
-msgstr ""
+msgstr "หากเปิดใช้งาน การดันเส้นสะพานจะใช้ความสูงเส้นเท่ากับเส้นผ่านศูนย์กลางหัวฉีด\nช่วยเพิ่มความแข็งแรงและความน่าเชื่อถือของสะพาน ทำให้ข้ามช่วงระยะไกลขึ้นได้ แต่อาจทำให้รูปลักษณ์แย่ลง\nหากปิดใช้งาน สะพานอาจดูดีขึ้น แต่โดยทั่วไปเชื่อถือได้เฉพาะช่วงสั้นๆ"
 
 msgid "Thick internal bridges"
 msgstr "สะพานภายในหนา"
@@ -11823,7 +11823,7 @@ msgid ""
 "If enabled, internal bridge extrusion uses a line height equal to the nozzle diameter.\n"
 "This increases internal bridge strength and reliability when printed over sparse infill, but may worsen appearance.\n"
 "If disabled, internal bridges may look better but can be less reliable over sparse infill."
-msgstr ""
+msgstr "หากเปิดใช้งาน การดันเส้นสะพานด้านในจะใช้ความสูงเส้นเท่ากับเส้นผ่านศูนย์กลางหัวฉีด\nช่วยเพิ่มความแข็งแรงและความน่าเชื่อถือของสะพานด้านในเมื่อพิมพ์เหนือไส้ในแบบโปร่ง แต่อาจทำให้รูปลักษณ์แย่ลง\nหากปิดใช้งาน สะพานด้านในอาจดูดีขึ้น แต่อาจน่าเชื่อถือน้อยลงเมื่อพิมพ์เหนือไส้ในแบบโปร่ง"
 
 msgid "Extra bridge layers (beta)"
 msgstr "เลเยอร์บริดจ์พิเศษ (เบต้า)"
@@ -11841,17 +11841,17 @@ msgid ""
 "3. Internal bridge only - generates second bridge layers for internal bridges over sparse infill only. Please note that the internal bridges count towards the top shell layer count of your model. The second internal bridge layer will be extruded as close to perpendicular to the first as possible. If multiple regions in the same island, with varying bridge angles are present, the last region of that island will be selected as the angle reference\n"
 "4. Apply to all - generates second bridge layers for both internal and external-facing bridges\n"
 msgstr ""
-"ตัวเลือกนี้ช่วยให้สามารถสร้างเลเยอร์บริดจ์เพิ่มไส้ในบนบริดจ์ภายในและภายนอกได้\n"
+"ตัวเลือกนี้ช่วยให้สร้างชั้นสะพานพิเศษเหนือสะพานภายในและ/หรือภายนอกได้\n"
 "\n"
-"ชั้นสะพานเพิ่มไส้ในช่วยปรับปรุงรูปลักษณ์และความน่าเชื่อถือของสะพาน เนื่องจากการรองรับแบบทึบนั้นดีกว่า สิ่งนี้มีประโยชน์อย่างยิ่งในเครื่องพิมพ์ที่รวดเร็ว ซึ่งความเร็วของบริดจ์และโซลิดอินฟิลจะแตกต่างกันมาก ชั้นสะพานที่เพิ่มขึ้นส่งผลให้การหมอนอิงบนพื้นผิวด้านบนลดลง เช่นเดียวกับการลดการแยกชั้นสะพานภายนอกออกจากปริมณฑลโดยรอบ\n"
+"ชั้นสะพานพิเศษช่วยปรับปรุงรูปลักษณ์และความน่าเชื่อถือของสะพาน เพราะไส้ในแบบทึบได้รับการรองรับดีขึ้น มีประโยชน์อย่างยิ่งกับเครื่องพิมพ์ความเร็วสูงที่ความเร็วสะพานและไส้ในแบบทึบต่างกันมาก ชั้นสะพานพิเศษช่วยลดการโป่งของผิวด้านบน รวมถึงลดการแยกตัวของชั้นสะพานภายนอกจากเส้นรอบวงโดยรอบ\n"
 "\n"
-"โดยทั่วไปขอแนะนำให้ตั้งค่านี้เป็น 'บริดจ์ภายนอกเท่านั้น' เป็นอย่างน้อย เว้นแต่จะพบปัญหาเฉพาะกับโมเดลที่แบ่งส่วน\n"
+"โดยทั่วไปขอแนะนำให้ตั้งค่านี้เป็น 'สะพานภายนอกเท่านั้น' เป็นอย่างน้อย เว้นแต่จะพบปัญหาเฉพาะกับโมเดลที่แบ่งส่วน\n"
 "\n"
 "ตัวเลือก:\n"
-"1. ปิดใช้งาน - ไม่สร้างเลเยอร์บริดจ์ที่สอง นี่เป็นค่าเริ่มต้นและตั้งค่าไว้เพื่อความเข้ากันได้\n"
-"2. สะพานภายนอกเท่านั้น - สร้างชั้นสะพานที่สองสำหรับสะพานที่หันหน้าไปทางภายนอกเท่านั้น โปรดทราบว่าสะพานขนาดเล็กที่สั้นกว่าหรือแคบกว่าจำนวนเส้นรอบวงที่ตั้งไว้จะถูกข้ามไป เนื่องจากจะไม่ได้รับประโยชน์จากสะพานชั้นที่สอง หากสร้างขึ้น ชั้นสะพานที่สองจะถูกอัดรีดขนานกับชั้นสะพานแรกเพื่อเสริมความแข็งแรงของสะพาน\n"
-"3. บริดจ์ภายในเท่านั้น - สร้างชั้นบริดจ์ที่สองสำหรับบริดจ์ภายในเหนือ ไส้ใน แบบกระจัดกระจายเท่านั้น โปรดทราบว่าบริดจ์ภายในนับรวมกับจำนวนชั้นเปลือกชั้นบนสุดของโมเดลของคุณ ชั้นสะพานภายในที่สองจะถูกอัดให้ใกล้เคียงกับตั้งฉากกับชั้นแรกมากที่สุด หากมีหลายภูมิภาคบนเกาะเดียวกันซึ่งมีมุมสะพานที่แตกต่างกัน พื้นที่สุดท้ายของเกาะนั้นจะถูกเลือกเป็นการอ้างอิงมุม\n"
-"4. ใช้กับทั้งหมด - สร้างชั้นสะพานที่สองสำหรับสะพานที่หันหน้าไปทางภายในและภายนอก\n"
+"1. ปิดใช้งาน - ไม่สร้างชั้นสะพานที่สอง นี่เป็นค่าเริ่มต้นและตั้งค่าไว้เพื่อความเข้ากันได้\n"
+"2. สะพานภายนอกเท่านั้น - สร้างชั้นสะพานที่สองสำหรับสะพานที่หันหน้าไปทางภายนอกเท่านั้น โปรดทราบว่าสะพานขนาดเล็กที่สั้นกว่าหรือแคบกว่าจำนวนเส้นรอบวงที่ตั้งไว้จะถูกข้ามไป เนื่องจากจะไม่ได้รับประโยชน์จากชั้นสะพานที่สอง หากสร้างขึ้น ชั้นสะพานที่สองจะถูกอัดรีดขนานกับชั้นสะพานแรกเพื่อเสริมความแข็งแรงของสะพาน\n"
+"3. สะพานภายในเท่านั้น - สร้างชั้นสะพานที่สองสำหรับสะพานภายในเหนือไส้ในแบบโปร่งเท่านั้น โปรดทราบว่าสะพานภายในจะนับรวมกับจำนวนชั้นเปลือกด้านบนของโมเดล ชั้นสะพานภายในที่สองจะถูกอัดรีดให้ใกล้เคียงกับแนวตั้งฉากกับชั้นแรกมากที่สุด หากมีหลายพื้นที่ในเกาะเดียวกันพร้อมมุมสะพานต่างกัน พื้นที่สุดท้ายของเกาะนั้นจะถูกเลือกเป็นมุมอ้างอิง\n"
+"4. นำไปใช้กับทั้งหมด - สร้างชั้นสะพานที่สองสำหรับสะพานที่หันหน้าไปทางภายในและภายนอก\n"
 
 msgid "External bridge only"
 msgstr "สะพานภายนอกเท่านั้น"
@@ -11920,11 +11920,11 @@ msgid ""
 "All: Add solid infill for all suitable sloping surfaces\n"
 "Default value is All."
 msgstr ""
-"เพิ่มไส้ในแบบทึบใกล้กับพื้นผิวที่ลาดเอียงเพื่อรับประกันความหนาของเปลือกในแนวตั้ง (ชั้นแข็งบน + ล่าง)\n"
-"ไม่มี: จะไม่มีการเพิ่ม ไส้ใน แบบทึบที่ใดก็ได้ ข้อควรระวัง: ใช้ตัวเลือกนี้อย่างระมัดระวังหากโมเดลของคุณมีพื้นผิวลาดเอียง\n"
-"ที่สำคัญเท่านั้น: หลีกเลี่ยงไส้ในวัสดุแข็งให้กับผนัง\n"
-"ปานกลาง: ไส้ในวัสดุแข็งสำหรับพื้นผิวที่มีความลาดเอียงมากเท่านั้น\n"
-"ทั้งหมด: ไส้ในวัสดุแข็งสำหรับพื้นผิวลาดเอียงที่เหมาะสมทั้งหมด\n"
+"เพิ่มไส้ในแบบทึบใกล้พื้นผิวลาดเอียงเพื่อรับประกันความหนาเปลือกในแนวตั้ง (ชั้นทึบบน + ล่าง)\n"
+"ไม่มี: จะไม่เพิ่มไส้ในแบบทึบในส่วนใดเลย ข้อควรระวัง: ใช้ตัวเลือกนี้อย่างระมัดระวังหากโมเดลมีพื้นผิวลาดเอียง\n"
+"เฉพาะจุดวิกฤต: หลีกเลี่ยงการเพิ่มไส้ในแบบทึบสำหรับผนัง\n"
+"ปานกลาง: เพิ่มไส้ในแบบทึบเฉพาะพื้นผิวที่ลาดเอียงมาก\n"
+"ทั้งหมด: เพิ่มไส้ในแบบทึบสำหรับพื้นผิวลาดเอียงที่เหมาะสมทั้งหมด\n"
 "ค่าเริ่มต้นคือทั้งหมด"
 
 msgid "Critical Only"
@@ -12097,7 +12097,7 @@ msgid "Mesh margin"
 msgstr "ขอบตาข่าย"
 
 msgid "This option determines the additional distance by which the adaptive bed mesh area should be expanded in the XY directions."
-msgstr "ตัวเลือกนี้จะกำหนดระยะห่างเพิ่มไส้ในที่ควรขยายพื้นที่ตาข่ายเบดแบบปรับได้ในทิศทาง XY"
+msgstr "ตัวเลือกนี้กำหนดระยะเพิ่มเติมที่ควรขยายพื้นที่ตาข่ายเบดแบบปรับได้ในทิศทาง XY"
 
 msgid "Grab length"
 msgstr "ความยาวคว้า"
@@ -12183,7 +12183,7 @@ msgstr "เปิดใช้งานการปรับPressure Advanceส�
 msgid ""
 "Enable adaptive PA for overhangs as well as when flow changes within the same feature. This is an experimental option, as if the PA profile is not set accurately, it will cause uniformity issues on the external surfaces before and after overhangs.\n"
 "Not compatible with Prusa printers as they pause to process PA changes, which causes delays and defects."
-msgstr ""
+msgstr "เปิดใช้งาน PA แบบปรับตัวสำหรับส่วนยื่นและเมื่ออัตราการไหลเปลี่ยนภายในฟีเจอร์เดียวกัน เป็นตัวเลือกทดลอง หากโปรไฟล์ PA ไม่แม่นยำ จะทำให้ผิวด้านนอกไม่สม่ำเสมอก่อนและหลังส่วนยื่น\nไม่รองรับเครื่องพิมพ์ Prusa เพราะจะหยุดชั่วคราวเพื่อประมวลผลการเปลี่ยน PA ทำให้เกิดความล่าช้าและข้อบกพร่อง"
 
 msgid "Pressure advance for bridges"
 msgstr "แรงดันล่วงหน้า (Pressure Advance)สำหรับสะพาน"
@@ -12592,7 +12592,7 @@ msgstr "จัดทิศทาง ไส้ใน ให้ตรงกับ�
 msgid ""
 "Aligns infill, bridge, ironing and surface fill directions to follow the model's orientation on the build plate.\n"
 "When enabled, directions rotate with the model to maintain optimal strength characteristics."
-msgstr ""
+msgstr "จัดทิศทางไส้ใน สะพาน การรีดเรียบ และการเติมผิวให้สอดคล้องกับการวางแนวของโมเดลบนฐานรองพิมพ์\nเมื่อเปิดใช้งาน ทิศทางจะหมุนตามโมเดลเพื่อรักษาคุณสมบัติความแข็งแรงที่เหมาะสม"
 
 msgid "Insert solid layers"
 msgstr "แทรกชั้นทึบ"
@@ -12694,24 +12694,24 @@ msgid "The angle of the infill angled lines. 60° will result in a pure honeycom
 msgstr "มุมของเส้นมุมที่ไส้ในเข้าไป 60° ก็จะได้รังผึ้งที่บริสุทธิ์"
 
 msgid "Lightning overhang angle"
-msgstr ""
+msgstr "มุมส่วนยื่น Lightning"
 
 msgid "Maximum overhang angle for Lightning infill support propagation."
-msgstr ""
+msgstr "มุมส่วนยื่นสูงสุดสำหรับการแพร่กระจายส่วนรองรับไส้ใน Lightning"
 
 msgid "Prune angle"
-msgstr ""
+msgstr "มุมตัดแต่ง"
 
 msgid ""
 "Controls how aggressively short or unsupported Lightning branches are pruned.\n"
 "This angle is converted internally to a per-layer distance."
-msgstr ""
+msgstr "กำหนดระดับการตัดกิ่ง Lightning ที่สั้นหรือไม่มีส่วนรองรับออก\nมุมนี้จะถูกแปลงภายในเป็นระยะทางต่อชั้น"
 
 msgid "Straightening angle"
-msgstr ""
+msgstr "มุมจัดให้ตรง"
 
 msgid "Maximum straightening angle used to simplify Lightning branches."
-msgstr ""
+msgstr "มุมจัดให้ตรงสูงสุดที่ใช้ลดความซับซ้อนของกิ่ง Lightning"
 
 msgid "Sparse infill anchor length"
 msgstr "ความยาวสมอ ไส้ใน เบาบาง"
@@ -12720,8 +12720,8 @@ msgid ""
 "Connect an infill line to an internal perimeter with a short segment of an additional perimeter. If expressed as percentage (example: 15%) it is calculated over infill extrusion width. Orca Slicer tries to connect two close infill lines to a short perimeter segment. If no such perimeter segment shorter than infill_anchor_max is found, the infill line is connected to a perimeter segment at just one side and the length of the perimeter segment taken is limited to this parameter, but no longer than anchor_length_max.\n"
 "Set this parameter to zero to disable anchoring perimeters connected to a single infill line."
 msgstr ""
-"เชื่อมต่อเส้นไส้ในเข้ากับเส้นรอบวงภายในด้วยส่วนสั้นของเส้นรอบวงเพิ่มไส้ใน หากแสดงเป็นเปอร์เซ็นต์ (ตัวอย่าง: 15%) ระบบจะคำนวณตามความกว้างของการอัดขึ้นรูปแบบไส้ใน Orca Slicer พยายามเชื่อมต่อเส้น ไส้ใน สองเส้นที่ปิดสนิทเข้ากับส่วนของเส้นรอบวงสั้นๆ หากไม่พบส่วนของเส้นรอบวงที่สั้นกว่า infill_anchor_max เส้น ไส้ใน จะเชื่อมต่อกับส่วนของเส้นรอบวงที่ด้านเดียว และความยาวของส่วนของเส้นรอบวงที่ใช้จะถูกจำกัดอยู่ที่พารามิเตอร์นี้ แต่ต้องไม่เกิน anchor_length_max\n"
-"ตั้งค่าพารามิเตอร์นี้เป็นศูนย์เพื่อปิดใช้งานขอบเขตการยึดที่เชื่อมต่อกับบรรทัดไส้ในบรรทัดเดียว"
+"เชื่อมต่อเส้นไส้ในเข้ากับเส้นรอบวงภายในด้วยส่วนสั้นของเส้นรอบวงเพิ่มเติม หากระบุเป็นเปอร์เซ็นต์ (ตัวอย่าง: 15%) ระบบจะคำนวณจากความกว้างการอัดรีดของไส้ใน Orca Slicer จะพยายามเชื่อมต่อเส้นไส้ในสองเส้นที่อยู่ใกล้กันเข้ากับส่วนเส้นรอบวงสั้น ๆ หากไม่พบส่วนเส้นรอบวงที่สั้นกว่า infill_anchor_max เส้นไส้ในจะถูกเชื่อมต่อกับส่วนเส้นรอบวงเพียงด้านเดียว และความยาวของส่วนเส้นรอบวงที่ใช้จะถูกจำกัดด้วยพารามิเตอร์นี้ แต่ต้องไม่เกิน anchor_length_max\n"
+"ตั้งค่าพารามิเตอร์นี้เป็นศูนย์เพื่อปิดใช้งานเส้นรอบวงยึดที่เชื่อมต่อกับเส้นไส้ในเพียงเส้นเดียว"
 
 msgid "0 (no open anchors)"
 msgstr "0 (ไม่มีพุกเปิด)"
@@ -12736,8 +12736,8 @@ msgid ""
 "Connect an infill line to an internal perimeter with a short segment of an additional perimeter. If expressed as percentage (example: 15%) it is calculated over infill extrusion width. Orca Slicer tries to connect two close infill lines to a short perimeter segment. If no such perimeter segment shorter than this parameter is found, the infill line is connected to a perimeter segment at just one side and the length of the perimeter segment taken is limited to infill_anchor, but no longer than this parameter.\n"
 "If set to 0, the old algorithm for infill connection will be used, it should create the same result as with 1000 & 0."
 msgstr ""
-"เชื่อมต่อเส้นไส้ในเข้ากับเส้นรอบวงภายในด้วยส่วนสั้นของเส้นรอบวงเพิ่มไส้ใน หากแสดงเป็นเปอร์เซ็นต์ (ตัวอย่าง: 15%) ระบบจะคำนวณตามความกว้างของการอัดขึ้นรูปแบบไส้ใน Orca Slicer พยายามเชื่อมต่อเส้น ไส้ใน สองเส้นที่ปิดสนิทเข้ากับส่วนของเส้นรอบวงสั้นๆ หากไม่พบส่วนของเส้นรอบวงที่สั้นกว่าพารามิเตอร์นี้ เส้น ไส้ใน จะเชื่อมต่อกับส่วนของเส้นรอบวงที่ด้านเดียว และความยาวของส่วนของเส้นรอบวงที่ใช้จะถูกจำกัดไว้ที่ infill_anchor แต่ไม่ยาวเกินกว่าพารามิเตอร์นี้\n"
-"หากตั้งค่าเป็น 0 จะใช้อัลกอริธึมเก่าสำหรับการเชื่อมต่อแบบ ไส้ใน ซึ่งควรสร้างผลลัพธ์เช่นเดียวกับ 1,000 และ 0"
+"เชื่อมต่อเส้นไส้ในเข้ากับเส้นรอบวงภายในด้วยส่วนสั้นของเส้นรอบวงเพิ่มเติม หากระบุเป็นเปอร์เซ็นต์ (ตัวอย่าง: 15%) ระบบจะคำนวณจากความกว้างการอัดรีดของไส้ใน Orca Slicer จะพยายามเชื่อมต่อเส้นไส้ในสองเส้นที่อยู่ใกล้กันเข้ากับส่วนเส้นรอบวงสั้น ๆ หากไม่พบส่วนเส้นรอบวงที่สั้นกว่าพารามิเตอร์นี้ เส้นไส้ในจะถูกเชื่อมต่อกับส่วนเส้นรอบวงเพียงด้านเดียว และความยาวของส่วนเส้นรอบวงที่ใช้จะถูกจำกัดไว้ที่ infill_anchor แต่ต้องไม่ยาวเกินพารามิเตอร์นี้\n"
+"หากตั้งค่าเป็น 0 จะใช้อัลกอริทึมเดิมสำหรับการเชื่อมต่อไส้ใน ซึ่งควรให้ผลลัพธ์เดียวกับ 1000 & 0"
 
 msgid "0 (Simple connect)"
 msgstr "0 (เชื่อมต่อแบบง่าย)"
@@ -13402,7 +13402,7 @@ msgstr "การตรวจวัดไม่รวมพื้นที่จ
 msgid ""
 "Filament to print internal sparse infill.\n"
 "\"Default\" uses the active object/part filament."
-msgstr ""
+msgstr "เส้นพลาสติกสำหรับพิมพ์ไส้ในแบบโปร่งภายใน\n\"ค่าเริ่มต้น\" ใช้เส้นพลาสติกของวัตถุ/ชิ้นส่วนที่ใช้งานอยู่"
 
 msgid "Line width of internal sparse infill. If expressed as a %, it will be computed over the nozzle diameter."
 msgstr "ความกว้างของเส้นของไส้ในแบบกระจัดกระจายภายใน หากแสดงเป็น % จะคำนวณตามเส้นผ่านศูนย์กลางของหัวฉีด"
@@ -13901,7 +13901,7 @@ msgid ""
 "\n"
 "Allowed values: 0.5-5"
 msgstr ""
-"ค่าที่ต่ำกว่าส่งผลให้อัตราการอัดรีดเรียบขึ้น อย่างไรก็ตาม สิ่งนี้ส่งผลให้ไฟล์ G-code มีขนาดใหญ่ขึ้นอย่างเห็นได้ชัดและมีคำแนะนำเพิ่มไส้ในสำหรับเครื่องพิมพ์ในการประมวลผล\n"
+"ค่าที่ต่ำกว่าส่งผลให้อัตราการอัดรีดเปลี่ยนผ่านได้เรียบขึ้น อย่างไรก็ตาม ไฟล์ G-code จะมีขนาดใหญ่ขึ้นอย่างเห็นได้ชัดและมีคำสั่งให้เครื่องพิมพ์ประมวลผลมากขึ้น\n"
 "\n"
 "ค่าเริ่มต้นของ 3 ทำงานได้ดีในกรณีส่วนใหญ่ หากเครื่องพิมพ์ของคุณกระตุก ให้เพิ่มค่านี้เพื่อลดจำนวนการปรับเปลี่ยน\n"
 "\n"
@@ -13994,10 +13994,10 @@ msgid "Distance of the extruder tip from the position where the filament is park
 msgstr "ระยะห่างของปลายชุดดันเส้นจากตำแหน่งที่เส้นพลาสติกจอดอยู่เมื่อขนถ่ายออก ซึ่งควรตรงกับค่าในเฟิร์มแวร์เครื่องพิมพ์"
 
 msgid "Extra loading distance"
-msgstr "ระยะการบรรทุกเพิ่มไส้ใน"
+msgstr "ระยะโหลดเพิ่มเติม"
 
 msgid "When set to zero, the distance the filament is moved from parking position during load is exactly the same as it was moved back during unload. When positive, it is loaded further, if negative, the loading move is shorter than unloading."
-msgstr "เมื่อตั้งค่าเป็นศูนย์ ระยะห่างที่เส้นพลาสติกถูกย้ายจากตำแหน่งจอดระหว่างการบรรทุกจะเท่ากันทุกประการกับการย้ายกลับในระหว่างการขนถ่าย เมื่อเป็นบวก จะมีการโหลดต่อไป หากเป็นลบ การเคลื่อนย้ายจะสั้นกว่าการขนถ่าย"
+msgstr "เมื่อตั้งค่าเป็นศูนย์ ระยะที่เส้นพลาสติกเคลื่อนจากตำแหน่งพักระหว่างโหลดจะเท่ากับระยะที่เคลื่อนกลับระหว่างถอดโหลดพอดี หากเป็นค่าบวก เส้นพลาสติกจะถูกโหลดเข้าไปไกลขึ้น หากเป็นค่าลบ การเคลื่อนที่ขณะโหลดจะสั้นกว่าตอนถอดโหลด"
 
 msgid "Start end points"
 msgstr "เริ่มต้นจุดสิ้นสุด"
@@ -14046,20 +14046,20 @@ msgid "This detects the overhang percentage relative to line width and uses a di
 msgstr "ตรวจจับเปอร์เซ็นต์ระยะยื่นที่สัมพันธ์กับความกว้างของเส้น และใช้ความเร็วที่แตกต่างกันในการพิมพ์ สำหรับระยะยื่น 100%% จะใช้ความเร็วบริดจ์"
 
 msgid "Outer walls"
-msgstr ""
+msgstr "ผนังชั้นนอก"
 
 msgid ""
 "Filament to print outer walls.\n"
 "\"Default\" uses the active object/part filament."
-msgstr ""
+msgstr "เส้นพลาสติกสำหรับพิมพ์ผนังชั้นนอก\n\"ค่าเริ่มต้น\" ใช้เส้นพลาสติกของวัตถุ/ชิ้นส่วนที่ใช้งานอยู่"
 
 msgid "Inner walls"
-msgstr ""
+msgstr "ผนังชั้นใน"
 
 msgid ""
 "Filament to print inner walls.\n"
 "\"Default\" uses the active object/part filament."
-msgstr ""
+msgstr "เส้นพลาสติกสำหรับพิมพ์ผนังชั้นใน\n\"ค่าเริ่มต้น\" ใช้เส้นพลาสติกของวัตถุ/ชิ้นส่วนที่ใช้งานอยู่"
 
 msgid "Line width of inner wall. If expressed as a %, it will be computed over the nozzle diameter."
 msgstr "ความกว้างของเส้นของผนังด้านใน หากแสดงเป็น % จะคำนวณตามเส้นผ่านศูนย์กลางของหัวฉีด"
@@ -14080,11 +14080,11 @@ msgid ""
 "\n"
 "Using lightning infill together with this option is not recommended as there is limited infill to anchor the extra perimeters to."
 msgstr ""
-"การตั้งค่านี้จะเพิ่มผนังพิเศษให้กับทุกเลเยอร์ วิธีนี้จะทำให้ส่วนที่ไส้ในเข้าไปติดกันในแนวตั้งระหว่างผนัง ส่งผลให้งานพิมพ์แข็งแรงขึ้น\n"
+"การตั้งค่านี้จะเพิ่มผนังพิเศษแบบชั้นเว้นชั้น วิธีนี้จะทำให้ไส้ในถูกหนีบในแนวตั้งระหว่างผนัง ส่งผลให้งานพิมพ์แข็งแรงขึ้น\n"
 "\n"
-"เมื่อเปิดใช้งานตัวเลือกนี้ จะต้องปิดใช้งานตัวเลือกให้แน่ใจว่าความหนาของเปลือกแนวตั้ง\n"
+"เมื่อเปิดใช้งานตัวเลือกนี้ จะต้องปิดใช้งานตัวเลือกตรวจสอบความหนาของเปลือกแนวตั้ง\n"
 "\n"
-"ไม่แนะนำให้ใช้ไส้ในแบบสายฟ้าร่วมกับตัวเลือกนี้ เนื่องจากมีข้อจำกัดในไส้ในเพื่อยึดขอบเพิ่มไส้ใน"
+"ไม่แนะนำให้ใช้ไส้ในแบบสายฟ้าร่วมกับตัวเลือกนี้ เนื่องจากมีไส้ในจำกัดสำหรับยึดเส้นรอบวงเสริม"
 
 msgid "If you want to process the output G-code through custom scripts, just list their absolute paths here. Separate multiple scripts with a semicolon. Scripts will be passed the absolute path to the G-code file as the first argument, and they can access the Orca Slicer config settings by reading environment variables."
 msgstr "หากคุณต้องการประมวลผลเอาต์พุต G-code ผ่านสคริปต์ที่กำหนดเอง เพียงระบุเส้นทางสัมบูรณ์ของสคริปต์ไว้ที่นี่ แยกสคริปต์หลายรายการด้วยเครื่องหมายอัฒภาค สคริปต์จะถูกส่งผ่านเส้นทางสัมบูรณ์ไปยังไฟล์ G-code เป็นอาร์กิวเมนต์แรก และสคริปต์เหล่านี้สามารถเข้าถึงการตั้งค่าการกำหนดค่า Orca Slicer ได้โดยการอ่านตัวแปรสภาพแวดล้อม"
@@ -14261,10 +14261,10 @@ msgid "Extra length on restart"
 msgstr "ความยาวพิเศษเมื่อรีสตาร์ท"
 
 msgid "When the retraction is compensated after the travel move, the extruder will push this additional amount of filament. This setting is rarely needed."
-msgstr "เมื่อการหดตัวได้รับการชดเชยหลังการเคลื่อนที่แบบเคลื่อนที่ ชุดดันเส้นจะดันเส้นพลาสติกเพิ่มไส้ในจำนวนนี้ การตั้งค่านี้ไม่ค่อยจำเป็น"
+msgstr "เมื่อชดเชยการดึงกลับหลังการเคลื่อนที่เดินทาง ชุดดันเส้นจะดันเส้นพลาสติกเพิ่มเติมในปริมาณนี้ การตั้งค่านี้ไม่ค่อยจำเป็น"
 
 msgid "When the retraction is compensated after changing tool, the extruder will push this additional amount of filament."
-msgstr "เมื่อการดึงกลับได้รับการชดเชยหลังจากเปลี่ยนเครื่องมือ ชุดดันเส้นจะดันเส้นพลาสติกเพิ่มไส้ในจำนวนนี้"
+msgstr "เมื่อชดเชยการดึงกลับหลังเปลี่ยนเครื่องมือ ชุดดันเส้นจะดันเส้นพลาสติกเพิ่มเติมในปริมาณนี้"
 
 msgid "Retraction speed"
 msgstr "ความเร็วดึงกลับ"
@@ -14520,17 +14520,17 @@ msgstr "พื้นที่ไส้ในแบบกระจัดกระ
 msgid ""
 "Filament to print internal solid infill.\n"
 "\"Default\" uses the active object/part filament."
-msgstr ""
+msgstr "เส้นพลาสติกสำหรับพิมพ์ไส้ในแบบทึบภายใน\n\"ค่าเริ่มต้น\" ใช้เส้นพลาสติกของวัตถุ/ชิ้นส่วนที่ใช้งานอยู่"
 
 msgid ""
 "Filament to print top surface.\n"
 "\"Default\" uses the active object/part filament."
-msgstr ""
+msgstr "เส้นพลาสติกสำหรับพิมพ์พื้นผิวด้านบน\n\"ค่าเริ่มต้น\" ใช้เส้นพลาสติกของวัตถุ/ชิ้นส่วนที่ใช้งานอยู่"
 
 msgid ""
 "Filament to print bottom surface.\n"
 "\"Default\" uses the active object/part filament."
-msgstr ""
+msgstr "เส้นพลาสติกสำหรับพิมพ์พื้นผิวด้านล่าง\n\"ค่าเริ่มต้น\" ใช้เส้นพลาสติกของวัตถุ/ชิ้นส่วนที่ใช้งานอยู่"
 
 msgid "Line width of internal solid infill. If expressed as a %, it will be computed over the nozzle diameter."
 msgstr "ความกว้างของเส้นของ ไส้ใน ทึบภายใน หากแสดงเป็น % จะคำนวณตามเส้นผ่านศูนย์กลางของหัวฉีด"
@@ -15423,7 +15423,7 @@ msgid "Invalid value when spiral vase mode is enabled: "
 msgstr "ค่าไม่ถูกต้องเมื่อเปิดใช้งานโหมดแจกันเกลียว:"
 
 msgid "Bridge line width must not exceed nozzle diameter: "
-msgstr ""
+msgstr "ความกว้างเส้นสะพานต้องไม่เกินเส้นผ่านศูนย์กลางหัวฉีด: "
 
 msgid "too large line width "
 msgstr "ความกว้างของเส้นใหญ่เกินไป"
@@ -15654,10 +15654,10 @@ msgid "Sets debug logging level. 0:fatal, 1:error, 2:warning, 3:info, 4:debug, 5
 msgstr "ตั้งค่าระดับการบันทึกการดีบัก 0: ร้ายแรง, 1: ข้อผิดพลาด, 2: คำเตือน, 3: ข้อมูล, 4: ดีบัก, 5: ติดตาม\n"
 
 msgid "Log file"
-msgstr ""
+msgstr "ไฟล์บันทึก"
 
 msgid "Redirects debug logging to file.\n"
-msgstr ""
+msgstr "เปลี่ยนทางการบันทึกดีบักไปยังไฟล์\n"
 
 msgid "Enable timelapse for print"
 msgstr "เปิดใช้งานไทม์แลปส์สำหรับการพิมพ์"
@@ -15744,10 +15744,10 @@ msgid "Retraction state at the beginning of the custom G-code block. If the cust
 msgstr "สถานะการเพิกถอนที่จุดเริ่มต้นของบล็อก G-code ที่กำหนดเอง หาก G-code แบบกำหนดเองย้ายแกนชุดดันเส้น ควรเขียนลงในตัวแปรนี้เพื่อให้ OrcaSlicer ยกเลิกการดึงกลับอย่างถูกต้องเมื่อได้รับการควบคุมกลับ"
 
 msgid "Extra de-retraction"
-msgstr "การยกเลิกการเพิกถอนเพิ่มไส้ใน"
+msgstr "การยกเลิกการดึงกลับเพิ่มเติม"
 
 msgid "Currently planned extra extruder priming after de-retraction."
-msgstr "ขณะนี้มีการวางแผนการรองพื้นชุดดันเส้นเพิ่มไส้ในหลังจากการถอนการถอยกลับ"
+msgstr "การดันเส้นเตรียมชุดดันเส้นเพิ่มเติมที่วางแผนไว้หลังการยกเลิกการดึงกลับ"
 
 msgid "Absolute E position"
 msgstr "ตำแหน่งสัมบูรณ์ E"
@@ -16292,9 +16292,9 @@ msgstr ""
 "\n"
 "โดยปกติแล้วการปรับเทียบจะไม่จำเป็น เมื่อคุณเริ่มพิมพ์สี/วัสดุเดียว โดยเลือกตัวเลือก \"flow dynamics calibration\" ในเมนูเริ่มการพิมพ์ เครื่องพิมพ์จะปฏิบัติตามวิธีเก่า ปรับเทียบเส้นพลาสติกก่อนพิมพ์ เมื่อคุณเริ่มการพิมพ์หลายสี/วัสดุ เครื่องพิมพ์จะใช้พารามิเตอร์การชดเชยเริ่มต้นสำหรับเส้นพลาสติกในระหว่างการเปลี่ยนเส้นพลาสติกทุกครั้ง ซึ่งจะให้ผลลัพธ์ที่ดีในกรณีส่วนใหญ่\n"
 "\n"
-"โปรดทราบว่ามีบางกรณีที่อาจทำให้ผลการสอบเทียบไม่น่าเชื่อถือ เช่น การยึดเกาะบนฐานรองพิมพ์ไม่เพียงพอ การปรับปรุงการยึดเกาะสามารถทำได้โดยการล้างแผ่นฐานรองพิมพ์หรือใช้กาว สำหรับข้อมูลเพิ่มไส้ในเกี่ยวกับหัวข้อนี้ โปรดดูที่ Wiki ของเรา\n"
+"โปรดทราบว่ามีบางกรณีที่อาจทำให้ผลการสอบเทียบไม่น่าเชื่อถือ เช่น การยึดเกาะบนฐานรองพิมพ์ไม่เพียงพอ การปรับปรุงการยึดเกาะสามารถทำได้โดยการล้างแผ่นฐานรองพิมพ์หรือใช้กาว สำหรับข้อมูลเพิ่มเติมเกี่ยวกับหัวข้อนี้ โปรดดูที่ Wiki ของเรา\n"
 "\n"
-"ผลการสอบเทียบมีความกระวนกระวายใจประมาณ 10 เปอร์เซ็นต์ในการทดสอบของเรา ซึ่งอาจทำให้ผลลัพธ์ไม่เหมือนกันทุกประการในการสอบเทียบแต่ละครั้ง เรายังคงตรวจสอบสาเหตุที่แท้จริงเพื่อทำการปรับปรุงด้วยการอัปเดตใหม่"
+"ผลการสอบเทียบมีความแปรปรวนประมาณ 10 เปอร์เซ็นต์ในการทดสอบของเรา ซึ่งอาจทำให้ผลลัพธ์ไม่เหมือนกันทุกครั้งที่สอบเทียบ เรายังคงตรวจสอบสาเหตุที่แท้จริงเพื่อปรับปรุงในอัปเดตใหม่"
 
 msgid "When to use Flow Rate Calibration"
 msgstr "เมื่อใดจึงจะใช้การปรับเทียบอัตราการไหล"
@@ -16905,13 +16905,13 @@ msgid "Top Surface Pattern"
 msgstr "รูปแบบพื้นผิวด้านบน"
 
 msgid "Choose a slot for the selected color"
-msgstr ""
+msgstr "เลือกช่องสำหรับสีที่เลือก"
 
 msgid "Material in the material station"
-msgstr ""
+msgstr "วัสดุในสถานีวัสดุ"
 
 msgid "Only materials of the same type can be selected."
-msgstr ""
+msgstr "เลือกได้เฉพาะวัสดุประเภทเดียวกัน"
 
 msgid "Send G-code to printer host"
 msgstr "ส่ง G-code ไปยังโฮสต์เครื่องพิมพ์"
@@ -16936,41 +16936,41 @@ msgid "Upload"
 msgstr "อัปโหลด"
 
 msgid "Leveling before print"
-msgstr ""
+msgstr "ปรับระดับก่อนพิมพ์"
 
 msgid "Time-lapse"
 msgstr "ไทม์แลปส์"
 
 msgid "Enable IFS"
-msgstr ""
+msgstr "เปิดใช้ IFS"
 
 #, c-format, boost-format
 msgid "Detected %d IFS slots on printer."
-msgstr ""
+msgstr "ตรวจพบช่อง IFS %d ช่องบนเครื่องพิมพ์"
 
 msgid "This printer does not report a material station."
-msgstr ""
+msgstr "เครื่องพิมพ์นี้ไม่รายงานสถานีวัสดุ"
 
 msgid "Unable to read IFS slots from printer."
-msgstr ""
+msgstr "ไม่สามารถอ่านช่อง IFS จากเครื่องพิมพ์"
 
 msgid "Loading IFS slots from printer..."
-msgstr ""
+msgstr "กำลังโหลดช่อง IFS จากเครื่องพิมพ์..."
 
 msgid "Slice the plate first to get project material information."
-msgstr ""
+msgstr "สไลซ์เพลตก่อนเพื่อให้ได้ข้อมูลวัสดุของโปรเจ็กต์"
 
 msgid "This plate uses multiple materials. Enable IFS and assign each tool to a printer slot."
-msgstr ""
+msgstr "เพลตนี้ใช้หลายวัสดุ เปิดใช้ IFS และกำหนดเครื่องมือแต่ละตัวให้ช่องบนเครื่องพิมพ์"
 
 msgid "Each project material must be assigned to an IFS slot before printing."
-msgstr ""
+msgstr "วัสดุของแต่ละโปรเจ็กต์ต้องถูกกำหนดให้กับช่อง IFS ก่อนพิมพ์"
 
 msgid "Each project material must be assigned to a loaded IFS slot before printing."
-msgstr ""
+msgstr "วัสดุของแต่ละโปรเจ็กต์ต้องถูกกำหนดให้กับช่อง IFS ที่โหลดแล้วก่อนพิมพ์"
 
 msgid "Each project material must match the material loaded in the selected IFS slot."
-msgstr ""
+msgstr "วัสดุของแต่ละโปรเจ็กต์ต้องตรงกับวัสดุที่โหลดในช่อง IFS ที่เลือก"
 
 msgid "Print host upload queue"
 msgstr "คิวการอัพโหลดโฮสต์การพิมพ์"
@@ -17023,13 +17023,13 @@ msgstr "แผ่นเรียบ (ด้าน B)"
 
 #, c-format, boost-format
 msgid "Printer: %s"
-msgstr ""
+msgstr "เครื่องพิมพ์: %s"
 
 msgid "Calibrate before printing"
-msgstr ""
+msgstr "ปรับเทียบก่อนพิมพ์"
 
 msgid "Filament Mapping:"
-msgstr ""
+msgstr "การแมปเส้นพลาสติก:"
 
 msgid "Unable to perform boolean operation on selected parts"
 msgstr "ไม่สามารถดำเนินการบูลีนกับส่วนที่เลือกได้"
@@ -17204,7 +17204,7 @@ msgid ""
 "To add preset for more printers, please go to printer selection"
 msgstr ""
 "เราจะเปลี่ยนชื่อค่าที่ตั้งล่วงหน้าเป็น \"Vendor Type Serial @printer ที่คุณเลือก\"\n"
-"หากต้องการเพิ่มพรีเซ็ตสำหรับเครื่องพิมพ์เพิ่มไส้ใน โปรดไปที่การเลือกเครื่องพิมพ์"
+"หากต้องการเพิ่มพรีเซ็ตสำหรับเครื่องพิมพ์เพิ่มเติม โปรดไปที่การเลือกเครื่องพิมพ์"
 
 msgid "Create Printer/Nozzle"
 msgstr "สร้างเครื่องพิมพ์/หัวฉีด"
@@ -17628,16 +17628,16 @@ msgid "Select the network agent implementation for printer communication. Availa
 msgstr "เลือกการใช้งานตัวแทนเครือข่ายสำหรับการสื่อสารของเครื่องพิมพ์ ตัวแทนที่มีอยู่จะได้รับการลงทะเบียนเมื่อเริ่มต้น"
 
 msgid "Select a Flashforge printer"
-msgstr ""
+msgstr "เลือกเครื่องพิมพ์ Flashforge"
 
 msgid "Discovered Printers"
-msgstr ""
+msgstr "เครื่องพิมพ์ที่ค้นพบ"
 
 msgid "Could not get a valid Printer Host reference"
 msgstr "ไม่สามารถรับข้อมูลอ้างอิงโฮสต์เครื่องพิมพ์ที่ถูกต้อง"
 
 msgid "Valid session not detected. Proceed with login to 3DPrinterOS?"
-msgstr ""
+msgstr "ไม่พบเซสชันที่ถูกต้อง ดำเนินการเข้าสู่ระบบ 3DPrinterOS ต่อหรือไม่?"
 
 msgid "Success!"
 msgstr "สำเร็จ!"
@@ -17674,40 +17674,40 @@ msgid "Connection to printers connected via the print host failed."
 msgstr "การเชื่อมต่อกับเครื่องพิมพ์ที่เชื่อมต่อผ่านโฮสต์การพิมพ์ล้มเหลว"
 
 msgid "3DPrinterOS Cloud upload options"
-msgstr ""
+msgstr "ตัวเลือกอัปโหลดคลาวด์ 3DPrinterOS"
 
 msgid "Single file"
-msgstr ""
+msgstr "ไฟล์เดียว"
 
 msgid "Project File"
-msgstr ""
+msgstr "ไฟล์โปรเจ็กต์"
 
 msgid "Project:"
-msgstr ""
+msgstr "โปรเจ็กต์:"
 
 msgid "Printer type:"
-msgstr ""
+msgstr "ประเภทเครื่องพิมพ์:"
 
 msgid "Printer type not found, please select manually."
-msgstr ""
+msgstr "ไม่พบประเภทเครื่องพิมพ์ โปรดเลือกด้วยตนเอง"
 
 msgid "Authorizing..."
-msgstr ""
+msgstr "กำลังอนุญาต..."
 
 msgid "Error. Can't get api token for authorization"
-msgstr ""
+msgstr "ข้อผิดพลาด ไม่สามารถรับโทเคน API สำหรับการอนุญาตได้"
 
 msgid "Could not parse server response."
-msgstr ""
+msgstr "ไม่สามารถแยกวิเคราะห์การตอบกลับจากเซิร์ฟเวอร์ได้"
 
 msgid "Error saving session to file"
-msgstr ""
+msgstr "ข้อผิดพลาดในการบันทึกเซสชันลงไฟล์"
 
 msgid "Error session check"
-msgstr ""
+msgstr "ข้อผิดพลาดในการตรวจสอบเซสชัน"
 
 msgid "Error during file upload"
-msgstr ""
+msgstr "ข้อผิดพลาดระหว่างอัปโหลดไฟล์"
 
 #, c-format, boost-format
 msgid "Mismatched type of print host: %s"
@@ -18128,7 +18128,7 @@ msgid "Don't remind me again"
 msgstr "ไม่ต้องเตือนฉันอีก"
 
 msgid "No further pop-up will appear. You can reopen it in 'Preferences'"
-msgstr "จะไม่มีป๊อปอัปเพิ่มไส้ในปรากฏขึ้น คุณสามารถเปิดใหม่ได้ใน 'การตั้งค่า'"
+msgstr "จะไม่มีป๊อปอัปเพิ่มเติมปรากฏขึ้น คุณสามารถเปิดใหม่ได้ใน 'การตั้งค่า'"
 
 msgid "Filament-Saving Mode"
 msgstr "โหมดประหยัดเส้นพลาสติก"
@@ -18188,116 +18188,116 @@ msgid "SimplyPrint account not linked. Go to Connect options to set it up."
 msgstr "บัญชี SimplyPrint ไม่ได้เชื่อมโยง ไปที่ตัวเลือกการเชื่อมต่อเพื่อตั้งค่า"
 
 msgid "Flashforge returned an invalid JSON response."
-msgstr ""
+msgstr "Flashforge ส่งคืนการตอบกลับ JSON ที่ไม่ถูกต้อง"
 
 msgid "No Flashforge printers were discovered on the local network."
-msgstr ""
+msgstr "ไม่พบเครื่องพิมพ์ Flashforge บนเครือข่าย LAN"
 
 msgid "Connected to Flashforge local API successfully."
-msgstr ""
+msgstr "เชื่อมต่อกับ Flashforge local API สำเร็จ"
 
 msgid "Serial connection to Flashforge is working correctly."
 msgstr "การเชื่อมต่อแบบอนุกรมกับ Flashforge ทำงานอย่างถูกต้อง"
 
 msgid "Could not connect to Flashforge local API"
-msgstr ""
+msgstr "ไม่สามารถเชื่อมต่อกับ Flashforge local API ได้"
 
 msgid "Could not connect to Flashforge via serial"
 msgstr "ไม่สามารถเชื่อมต่อกับ Flashforge ผ่านทางอนุกรมได้"
 
 msgid "Flashforge local API requires both serial number and access code."
-msgstr ""
+msgstr "Flashforge local API ต้องใช้ทั้งหมายเลขซีเรียลและรหัสเข้าถึง"
 
 msgid "Printer returned an error"
-msgstr ""
+msgstr "เครื่องพิมพ์ส่งข้อผิดพลาดกลับมา"
 
 msgid "Missing system_info in response"
-msgstr ""
+msgstr "ไม่พบ system_info ในข้อมูลตอบกลับ"
 
 msgid "Missing printer serial number in response"
-msgstr ""
+msgstr "ไม่พบหมายเลขซีเรียลเครื่องพิมพ์ในข้อมูลตอบกลับ"
 
 msgid "Error parsing response"
-msgstr ""
+msgstr "แยกวิเคราะห์ข้อมูลตอบกลับไม่สำเร็จ"
 
 msgid "ElegooLink not detected"
-msgstr ""
+msgstr "ไม่พบ ElegooLink"
 
 msgid "Invalid access code"
-msgstr ""
+msgstr "รหัสเข้าถึงไม่ถูกต้อง"
 
 msgid "CC2 device not detected"
-msgstr ""
+msgstr "ไม่พบอุปกรณ์ CC2"
 
 msgid "Connection to ElegooLink is working correctly."
-msgstr ""
+msgstr "การเชื่อมต่อกับ ElegooLink ทำงานถูกต้อง"
 
 msgid "Could not connect to ElegooLink"
-msgstr ""
+msgstr "เชื่อมต่อกับ ElegooLink ไม่สำเร็จ"
 
 #, boost-format
 msgid "Error code: %1%"
-msgstr ""
+msgstr "รหัสข้อผิดพลาด: %1%"
 
 msgid "Upload failed"
-msgstr ""
+msgstr "อัปโหลดล้มเหลว"
 
 msgid "The file has been transferred, but some unknown errors occurred. Please check the device page for the file and try to start printing again."
-msgstr ""
+msgstr "ไฟล์ถูกส่งแล้ว แต่เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุ โปรดตรวจสอบไฟล์ในหน้าอุปกรณ์แล้วลองเริ่มพิมพ์อีกครั้ง"
 
 msgid "Failed to open file for upload."
-msgstr ""
+msgstr "เปิดไฟล์สำหรับอัปโหลดไม่สำเร็จ"
 
 msgid "Failed to read file chunk for upload."
-msgstr ""
+msgstr "อ่านส่วนข้อมูลไฟล์สำหรับอัปโหลดไม่สำเร็จ"
 
 msgid "CC2 upload failed"
-msgstr ""
+msgstr "อัปโหลด CC2 ล้มเหลว"
 
 msgid "The file is empty or could not be read."
-msgstr ""
+msgstr "ไฟล์ว่างเปล่าหรืออ่านไม่ได้"
 
 msgid "Failed to calculate file checksum."
-msgstr ""
+msgstr "คำนวณ checksum ของไฟล์ไม่สำเร็จ"
 
 msgid "Error code not found"
-msgstr ""
+msgstr "ไม่พบรหัสข้อผิดพลาด"
 
 msgid "The printer is busy, Please check the device page for the file and try to start printing again."
-msgstr ""
+msgstr "เครื่องพิมพ์ไม่ว่าง โปรดตรวจสอบไฟล์ในหน้าอุปกรณ์แล้วลองเริ่มพิมพ์อีกครั้ง"
 
 msgid "The file is lost, please check and try again."
-msgstr ""
+msgstr "ไฟล์หายไป โปรดตรวจสอบแล้วลองอีกครั้ง"
 
 msgid "The file is corrupted, please check and try again."
-msgstr ""
+msgstr "ไฟล์เสียหาย โปรดตรวจสอบแล้วลองอีกครั้ง"
 
 msgid "Transmission abnormality, please check and try again."
-msgstr ""
+msgstr "การส่งผิดปกติ โปรดตรวจสอบแล้วลองอีกครั้ง"
 
 msgid "The file does not match the printer, please check and try again."
-msgstr ""
+msgstr "ไฟล์ไม่ตรงกับเครื่องพิมพ์ โปรดตรวจสอบแล้วลองอีกครั้ง"
 
 msgid "Start print timeout"
-msgstr ""
+msgstr "หมดเวลาเริ่มพิมพ์"
 
 msgid "Start print failed"
-msgstr ""
+msgstr "เริ่มพิมพ์ไม่สำเร็จ"
 
 msgid "Connected to CrealityPrint successfully!"
-msgstr ""
+msgstr "เชื่อมต่อ CrealityPrint สำเร็จ!"
 
 msgid "Could not connect to CrealityPrint"
-msgstr ""
+msgstr "ไม่สามารถเชื่อมต่อ CrealityPrint ได้"
 
 msgid "Connection timed out. Please check if the printer and computer network are functioning properly, and confirm that they are on the same network."
-msgstr ""
+msgstr "การเชื่อมต่อหมดเวลา กรุณาตรวจสอบว่าเครื่องพิมพ์และเครือข่ายของคอมพิวเตอร์ทำงานปกติ และอยู่ในเครือข่ายเดียวกัน"
 
 msgid "The Hostname/IP/URL could not be parsed, please check it and try again."
-msgstr ""
+msgstr "ไม่สามารถแยกวิเคราะห์ Hostname/IP/URL ได้ กรุณาตรวจสอบและลองอีกครั้ง"
 
 msgid "File/data transfer interrupted. Please check the printer and network, then try it again."
-msgstr ""
+msgstr "การถ่ายโอนไฟล์/ข้อมูลถูกขัดจังหวะ กรุณาตรวจสอบเครื่องพิมพ์และเครือข่าย แล้วลองอีกครั้ง"
 
 msgid "The provided state is not correct."
 msgstr "สถานะที่ระบุไม่ถูกต้อง"
@@ -18342,16 +18342,16 @@ msgid "invalid brim ears"
 msgstr "หูขอบยึดชิ้นงานไม่ถูกต้อง"
 
 msgid "Brim Ears"
-msgstr "หู ขอบยึดชิ้นงาน"
+msgstr "หูขอบยึดชิ้นงาน"
 
 msgid "Please select single object."
 msgstr "กรุณาเลือกวัตถุเดียว"
 
 msgid "Entering Brim Ears"
-msgstr ""
+msgstr "กำลังเข้าสู่หูขอบยึดชิ้นงาน"
 
 msgid "Leaving Brim Ears"
-msgstr ""
+msgstr "กำลังออกจากหูขอบยึดชิ้นงาน"
 
 msgid "Zoom Out"
 msgstr "ซูมออก"
@@ -18363,7 +18363,7 @@ msgid "Load skipping objects information failed. Please try again."
 msgstr "โหลดข้อมูลวัตถุที่ข้ามล้มเหลว โปรดลองอีกครั้ง"
 
 msgid "Failed to create the temporary folder."
-msgstr ""
+msgstr "สร้างโฟลเดอร์ชั่วคราวไม่สำเร็จ"
 
 #, c-format, boost-format
 msgid "/%d Selected"
@@ -18407,7 +18407,7 @@ msgid "Official Filament"
 msgstr "เส้นพลาสติกทางการ"
 
 msgid "More Colors"
-msgstr "สีเพิ่มไส้ใน"
+msgstr "สีเพิ่มเติม"
 
 msgid "Network Plug-in Update Available"
 msgstr "มีการอัปเดตปลั๊กอินเครือข่ายแล้ว"
@@ -18505,87 +18505,87 @@ msgid "Calculating, please wait..."
 msgstr "กำลังคำนวณ โปรดรอสักครู่..."
 
 msgid "PresetBundle"
-msgstr ""
+msgstr "ชุดค่าที่ตั้งไว้ล่วงหน้า"
 
 msgid "Bundle folder does not exist."
-msgstr ""
+msgstr "ไม่มีโฟลเดอร์ชุด"
 
 msgid "Failed to open folder."
-msgstr ""
+msgstr "เปิดโฟลเดอร์ไม่สำเร็จ"
 
 msgid "Delete selected bundle from folder and all presets loaded from it?"
-msgstr ""
+msgstr "ลบชุดที่เลือกจากโฟลเดอร์และค่าที่ตั้งไว้ล่วงหน้าทั้งหมดที่โหลดจากชุดนี้หรือไม่?"
 
 msgid "Delete Bundle"
-msgstr ""
+msgstr "ลบชุด"
 
 msgid "Failed to remove bundle."
-msgstr ""
+msgstr "ลบชุดไม่สำเร็จ"
 
 msgid "Remove Bundle"
-msgstr ""
+msgstr "ลบชุด"
 
 msgid "Unsubscribe bundle?"
-msgstr ""
+msgstr "ยกเลิกการติดตามชุดหรือไม่?"
 
 msgid "UnsubscribeBundle"
-msgstr ""
+msgstr "ยกเลิกการติดตามชุด"
 
 msgid "Failed to unsubscribe bundle."
-msgstr ""
+msgstr "ยกเลิกการติดตามชุดไม่สำเร็จ"
 
 msgid "Unsubscribe Bundle"
-msgstr ""
+msgstr "ยกเลิกการติดตามชุด"
 
 msgid "ExportPresetBundle"
-msgstr ""
+msgstr "ส่งออกชุดค่าที่ตั้งไว้ล่วงหน้า"
 
 msgid "Save preset bundle"
-msgstr ""
+msgstr "บันทึกชุดค่าที่ตั้งไว้ล่วงหน้า"
 
 msgid "Performing desktop integration failed - boost::filesystem::canonical did not return appimage path."
-msgstr ""
+msgstr "การผสานรวมเดสก์ท็อปล้มเหลว - boost::filesystem::canonical ไม่ได้คืนค่าเส้นทาง AppImage"
 
 msgid "Performing desktop integration failed - Could not find executable."
-msgstr ""
+msgstr "การผสานรวมเดสก์ท็อปล้มเหลว - ไม่พบไฟล์ที่รันได้"
 
 msgid "Performing desktop integration failed because the application directory was not found."
-msgstr ""
+msgstr "การผสานรวมเดสก์ท็อปล้มเหลว เนื่องจากไม่พบไดเรกทอรีแอปพลิเคชัน"
 
 msgid "Performing desktop integration failed - could not create Gcodeviewer desktop file. OrcaSlicer desktop file was probably created successfully."
-msgstr ""
+msgstr "การผสานรวมเดสก์ท็อปล้มเหลว - ไม่สามารถสร้างไฟล์เดสก์ท็อป Gcodeviewer ได้ ไฟล์เดสก์ท็อป OrcaSlicer อาจถูกสร้างสำเร็จแล้ว"
 
 msgid "Performing downloader desktop integration failed - boost::filesystem::canonical did not return appimage path."
-msgstr ""
+msgstr "การผสานรวมเดสก์ท็อปของตัวดาวน์โหลดล้มเหลว - boost::filesystem::canonical ไม่ได้ส่งคืนเส้นทาง AppImage"
 
 msgid "Performing downloader desktop integration failed - Could not find executable."
-msgstr ""
+msgstr "การผสานรวมเดสก์ท็อปของตัวดาวน์โหลดล้มเหลว - ไม่พบไฟล์ที่รันได้"
 
 msgid "Performing downloader desktop integration failed because the application directory was not found."
-msgstr ""
+msgstr "การผสานรวมเดสก์ท็อปของตัวดาวน์โหลดล้มเหลว เนื่องจากไม่พบไดเรกทอรีแอปพลิเคชัน"
 
 msgid "Desktop Integration"
-msgstr ""
+msgstr "การผสานรวมเดสก์ท็อป"
 
 msgid ""
 "Desktop Integration sets this binary to be searchable by the system.\n"
 "\n"
 "Press \"Perform\" to proceed."
-msgstr ""
+msgstr "การผสานรวมเดสก์ท็อปจะตั้งค่าไบนารีนี้ให้ระบบค้นหาได้\n\nกด \"ดำเนินการ\" เพื่อดำเนินการต่อ"
 
 msgid "The download has failed"
-msgstr ""
+msgstr "การดาวน์โหลดล้มเหลว"
 
 #. TRN %1% = file path
 #, boost-format
 msgid "Can't create file at %1%"
-msgstr ""
+msgstr "ไม่สามารถสร้างไฟล์ที่ %1%"
 
 msgid "Archive preview"
-msgstr ""
+msgstr "ดูตัวอย่างไฟล์บีบอัด"
 
 msgid "Open File"
-msgstr ""
+msgstr "เปิดไฟล์"
 
 msgid "The filament may not be compatible with the current machine settings. Generic filament presets will be used."
 msgstr "เส้นพลาสติกอาจไม่เข้ากันกับการตั้งค่าเครื่องปัจจุบัน จะใช้การตั้งค่าฟิลาเมนต์ทั่วไป"
