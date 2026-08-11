@@ -843,7 +843,7 @@ msgid "Hexagon"
 msgstr "หกเหลี่ยม"
 
 msgid "Keep orientation"
-msgstr "รักษาปฐมนิเทศ"
+msgstr "คงการวางแนว"
 
 msgid "Place on cut"
 msgstr "วางบนการตัด"
@@ -1200,7 +1200,7 @@ msgid "Horizontal text"
 msgstr "ข้อความแนวนอน"
 
 msgid "Shift+"
-msgstr "กะ+"
+msgstr "Shift+"
 
 msgid "Mouse move up or down"
 msgstr "เมาส์เลื่อนขึ้นหรือลง"
@@ -2817,10 +2817,10 @@ msgid "current"
 msgstr "ปัจจุบัน"
 
 msgid "Scale to build volume"
-msgstr "ปรับขนาดเพื่อสร้างปริมาณ"
+msgstr "ปรับขนาดให้พอดีกับพื้นที่พิมพ์"
 
 msgid "Scale an object to fit the build volume"
-msgstr "ปรับขนาดวัตถุให้พอดีกับปริมาณงานสร้าง"
+msgstr "ปรับขนาดวัตถุให้พอดีกับพื้นที่พิมพ์"
 
 msgid "Flush Options"
 msgstr "ตัวเลือกการไล่เส้น"
@@ -2898,10 +2898,10 @@ msgid "Change SVG source file, projection, size, ..."
 msgstr "เปลี่ยนไฟล์ต้นฉบับ SVG, การฉายภาพ, ขนาด, ..."
 
 msgid "Invalidate cut info"
-msgstr "ข้อมูลการตัดไม่ถูกต้อง"
+msgstr "ยกเลิกข้อมูลการตัด"
 
 msgid "Add Primitive"
-msgstr "เพิ่มดั้งเดิม"
+msgstr "เพิ่มรูปทรงพื้นฐาน"
 
 msgid "Add Handy models"
 msgstr "เพิ่มรุ่นแฮนดี้"
@@ -3027,7 +3027,7 @@ msgid "Center"
 msgstr "กึ่งกลาง"
 
 msgid "Drop"
-msgstr "หยด"
+msgstr "วางลงฐานพิมพ์"
 
 msgid "Edit Process Settings"
 msgstr "แก้ไขการตั้งค่ากระบวนการ"
@@ -3242,7 +3242,7 @@ msgid "Add layers"
 msgstr "เพิ่มเลเยอร์"
 
 msgid "Cut Connectors information"
-msgstr "ตัดข้อมูลตัวเชื่อมต่อ"
+msgstr "ข้อมูลตัวเชื่อมสำหรับการตัด"
 
 msgid "Object manipulation"
 msgstr "การจัดการวัตถุ"
@@ -3279,7 +3279,7 @@ msgid "Layer"
 msgstr "เลเยอร์"
 
 msgid "Selection conflicts"
-msgstr "ข้อขัดแย้งในการคัดเลือก"
+msgstr "การเลือกขัดแย้งกัน"
 
 msgid "If the first selected item is an object, the second should also be an object."
 msgstr "หากรายการแรกที่เลือกเป็นวัตถุ รายการที่สองก็ควรเป็นวัตถุด้วย"
@@ -5381,7 +5381,7 @@ msgid "Pressure Advance"
 msgstr "แรงดันล่วงหน้า (Pressure Advance)"
 
 msgid "Noop"
-msgstr "นะ"
+msgstr "ไม่มีการดำเนินการ"
 
 msgid "Retract"
 msgstr "ดึงกลับ"
@@ -5486,7 +5486,7 @@ msgid "Jerk: "
 msgstr "เจิร์ก: "
 
 msgid "PA: "
-msgstr "พ่อ:"
+msgstr "PA: "
 
 msgid "mm/s"
 msgstr "มม./วินาที"
@@ -5552,7 +5552,7 @@ msgid "Tips:"
 msgstr "เคล็ดลับ:"
 
 msgid "Current grouping of slice result is not optimal."
-msgstr "การจัดกลุ่มผลลัพธ์การแบ่งส่วนในปัจจุบันไม่เหมาะสมที่สุด"
+msgstr "การจัดกลุ่มผลการสไลซ์ปัจจุบันยังไม่เหมาะสม"
 
 #, boost-format
 msgid "Increase %1%g filament and %2% changes compared to optimal grouping."
@@ -5585,7 +5585,7 @@ msgid "Regroup filament"
 msgstr "จัดกลุ่มเส้นพลาสติกใหม่"
 
 msgid "up to"
-msgstr "ขึ้นไป"
+msgstr "สูงสุด"
 
 msgid "above"
 msgstr "ข้างบน"
@@ -5642,7 +5642,7 @@ msgid "Filament change times"
 msgstr "จำนวนครั้งที่เปลี่ยนเส้น"
 
 msgid "Tool changes"
-msgstr "การเปลี่ยนแปลงเครื่องมือ"
+msgstr "การเปลี่ยนเครื่องมือ"
 
 msgid "Color change"
 msgstr "เปลี่ยนสี"
@@ -5673,7 +5673,7 @@ msgid "Model printing time"
 msgstr "ระยะเวลาในการพิมพ์โมเดล"
 
 msgid "Show stealth mode"
-msgstr "แสดงโหมดซ่อนตัว"
+msgstr "แสดงโหมดเงียบ"
 
 msgid "Show normal mode"
 msgstr "แสดงโหมดปกติ"
@@ -5693,7 +5693,7 @@ msgstr ""
 "โปรดแก้ไขปัญหาด้วยการเลื่อนเข้าหรือออกจากเพลตโดยสิ้นเชิง และยืนยันว่าความสูงอยู่ภายในปริมาตรงานประกอบ"
 
 msgid "Variable layer height"
-msgstr "ความสูงของชั้นตัวแปร"
+msgstr "ความสูงเลเยอร์แบบแปรผัน"
 
 msgid "Adaptive"
 msgstr "ปรับตัวได้"
@@ -5783,7 +5783,7 @@ msgid "Optimize support interface area"
 msgstr "ปรับพื้นที่อินเทอร์เฟซส่วนรองรับให้เหมาะสม"
 
 msgid "Orient"
-msgstr "ตะวันออก"
+msgstr "จัดวางแนว"
 
 msgid "Arrange options"
 msgstr "ตัวเลือกจัดเรียง"
@@ -5929,7 +5929,7 @@ msgid "Paint Toolbar"
 msgstr "แถบเครื่องมือสี"
 
 msgid "Explosion Ratio"
-msgstr "อัตราส่วนการระเบิด"
+msgstr "ระดับการแยกชิ้นส่วน"
 
 msgid "Section View"
 msgstr "มุมมองส่วน"
@@ -10411,7 +10411,7 @@ msgid "Z contouring"
 msgstr "รูปร่าง Z"
 
 msgid "Wall generator"
-msgstr "เครื่องกำเนิดไฟฟ้าติดผนัง"
+msgstr "ตัวสร้างผนัง"
 
 msgid "Walls and surfaces"
 msgstr "ผนังและพื้นผิว"
@@ -10780,7 +10780,7 @@ msgstr ""
 "ต้องการตั้งค่าเป็น 100% เพื่อเปิดใช้งาน Firmware Retraction หรือไม่?"
 
 msgid "Firmware Retraction"
-msgstr "การเพิกถอนเฟิร์มแวร์"
+msgstr "การดึงกลับด้วยเฟิร์มแวร์ (Firmware Retraction)"
 
 msgid "Switching to a printer with different extruder types or numbers will discard or reset changes to extruder or multi-nozzle-related parameters."
 msgstr "การเปลี่ยนไปใช้เครื่องพิมพ์ที่มีประเภทหรือหมายเลขชุดดันเส้นที่แตกต่างกันจะยกเลิกหรือรีเซ็ตการเปลี่ยนแปลงในชุดดันเส้นหรือพารามิเตอร์ที่เกี่ยวข้องกับหัวฉีดหลายตัว"
@@ -13138,7 +13138,7 @@ msgstr ""
 "หมายเหตุ: ค่าผลลัพธ์จะไม่ได้รับผลกระทบจากอัตราส่วนการไหลของชั้นแรก"
 
 msgid "Brim follows compensated outline"
-msgstr "ขอบยึดชิ้นงาน ปฏิบัติตามโครงร่างที่ได้รับการชดเชย"
+msgstr "Brim ตามแนวที่ชดเชยแล้ว"
 
 msgid ""
 "When enabled, the brim is aligned with the first-layer perimeter geometry after Elephant Foot Compensation is applied.\n"
@@ -13753,7 +13753,7 @@ msgstr ""
 "อัตราการไหลของวัตถุขั้นสุดท้ายคือค่านี้คูณด้วยอัตราการไหลของเส้นพลาสติก"
 
 msgid "Enable pressure advance"
-msgstr "เปิดใช้งานPressure Advance"
+msgstr "เปิดใช้ Pressure Advance"
 
 msgid "Enable pressure advance, auto calibration result will be overwritten once enabled."
 msgstr "เปิดใช้งานการเลื่อนแรงดัน ผลลัพธ์การสอบเทียบอัตโนมัติจะถูกเขียนทับเมื่อเปิดใช้งาน"
@@ -13762,7 +13762,7 @@ msgid "Pressure advance (Klipper) AKA Linear advance factor (Marlin)."
 msgstr "แรงดันล่วงหน้า (Pressure Advance) (Klipper) AKA Linear Advance Factor (Marlin)"
 
 msgid "Enable adaptive pressure advance (beta)"
-msgstr "เปิดใช้งานการปรับPressure Advance (เบต้า)"
+msgstr "เปิดใช้ Adaptive Pressure Advance (เบต้า)"
 
 #, no-c-format, no-boost-format
 msgid ""
@@ -13780,7 +13780,7 @@ msgstr ""
 "เมื่อเปิดใช้งาน ค่าล่วงหน้าของแรงดันด้านบนจะถูกแทนที่ อย่างไรก็ตาม แนะนำให้ใช้ค่าเริ่มต้นที่สมเหตุสมผลด้านบนเพื่อเป็นทางเลือกและเมื่อมีการเปลี่ยนเครื่องมือ\n"
 
 msgid "Adaptive pressure advance measurements (beta)"
-msgstr "การวัดล่วงหน้าด้วยแรงดันแบบปรับได้ (เบต้า)"
+msgstr "ข้อมูลวัด Adaptive Pressure Advance (เบต้า)"
 
 #, no-c-format, no-boost-format
 msgid ""
@@ -14517,13 +14517,13 @@ msgid "Filament-specific override for ironing flow. This allows you to customize
 msgstr "การแทนที่เส้นพลาสติกเฉพาะสำหรับกระแสการรีดผิว ซึ่งช่วยให้คุณปรับแต่งกระแสการรีดผิวสำหรับเส้นพลาสติกแต่ละประเภทได้ ค่าที่สูงเกินไปส่งผลให้เกิดการอัดขึ้นรูปมากเกินไปบนพื้นผิว"
 
 msgid "Ironing line spacing"
-msgstr "ระยะห่างระหว่างสายรีดผิว"
+msgstr "ระยะห่างระหว่างเส้นรีดผิว"
 
 msgid "Filament-specific override for ironing line spacing. This allows you to customize the spacing between ironing lines for each filament type."
 msgstr "การแทนที่เส้นพลาสติกเฉพาะสำหรับระยะห่างระหว่างรีดผิว ซึ่งช่วยให้คุณปรับแต่งระยะห่างระหว่างเส้นรีดผิวสำหรับเส้นพลาสติกแต่ละประเภทได้"
 
 msgid "Ironing inset"
-msgstr "อุปกรณ์รีดผิว"
+msgstr "ระยะเว้นขอบการรีดผิว"
 
 msgid "Filament-specific override for ironing inset. This allows you to customize the distance to keep from the edges when ironing for each filament type."
 msgstr "การแทนที่เส้นพลาสติกเฉพาะสำหรับส่วนเสริมการรีดผิว ซึ่งช่วยให้คุณปรับแต่งระยะห่างจากขอบเมื่อรีดผิวสำหรับเส้นพลาสติกแต่ละประเภทได้"
@@ -14565,10 +14565,10 @@ msgid "The average distance between the random points introduced on each line se
 msgstr "ระยะห่างเฉลี่ยระหว่างจุดสุ่มที่แนะนำในแต่ละส่วนของเส้น"
 
 msgid "Apply fuzzy skin to first layer"
-msgstr "ทาผิวที่คลุมเครือเป็นชั้นแรก"
+msgstr "ใช้ Fuzzy Skin กับชั้นแรก"
 
 msgid "Whether to apply fuzzy skin on the first layer."
-msgstr "ไม่ว่าจะทาผิวฟุ้งๆในชั้นแรกหรือไม่"
+msgstr "กำหนดว่าจะใช้ Fuzzy Skin กับชั้นแรกหรือไม่"
 
 msgid "Fuzzy skin generator mode"
 msgstr "โหมดสร้างผิวฟัซซี"
@@ -14599,7 +14599,7 @@ msgid "Combined"
 msgstr "รวม"
 
 msgid "Fuzzy skin noise type"
-msgstr "ประเภทเสียงผิวเลือน"
+msgstr "ประเภท Noise ของ Fuzzy Skin"
 
 msgid ""
 "Noise type to use for fuzzy skin generation:\n"
@@ -14631,7 +14631,7 @@ msgid "Ridged Multifractal"
 msgstr "Multifractal แบบสัน"
 
 msgid "Voronoi"
-msgstr "โวโรน้อย"
+msgstr "Voronoi"
 
 msgid "Ripple"
 msgstr "ระลอกคลื่น"
@@ -14643,13 +14643,13 @@ msgid "The base size of the coherent noise features, in mm. Higher values will r
 msgstr "ขนาดฐานของคุณสมบัติเสียงที่สอดคล้องกัน หน่วยเป็น มม. ค่าที่สูงกว่าจะส่งผลให้มีคุณลักษณะที่ใหญ่ขึ้น"
 
 msgid "Fuzzy Skin Noise Octaves"
-msgstr "อ็อกเทฟเสียงผิวฟัซซี"
+msgstr "จำนวน Octave ของ Noise ใน Fuzzy Skin"
 
 msgid "The number of octaves of coherent noise to use. Higher values increase the detail of the noise, but also increase computation time."
 msgstr "จำนวนอ็อกเทฟของสัญญาณรบกวนที่สอดคล้องกันที่จะใช้ ค่าที่สูงกว่าจะเพิ่มรายละเอียดของสัญญาณรบกวน แต่ยังเพิ่มเวลาในการคำนวณด้วย"
 
 msgid "Fuzzy skin noise persistence"
-msgstr "ความคงอยู่ของเสียงผิวเลือน"
+msgstr "ค่า Persistence ของ Noise ใน Fuzzy Skin"
 
 msgid "The decay rate for higher octaves of the coherent noise. Lower values will result in smoother noise."
 msgstr "อัตราการสลายตัวของอ็อกเทฟที่สูงขึ้นของสัญญาณรบกวนที่สอดคล้องกัน ค่าที่ต่ำกว่าจะส่งผลให้มีสัญญาณรบกวนที่นุ่มนวลขึ้น"
@@ -15737,7 +15737,7 @@ msgid "The start and end points which are from the cutter area to the excess chu
 msgstr "จุดเริ่มต้นและจุดสิ้นสุดตั้งแต่บริเวณเครื่องตัดถึงถังขยะ"
 
 msgid "Reduce infill retraction"
-msgstr "ลดการหดตัวของ ไส้ใน"
+msgstr "ลดการดึงกลับในไส้ใน"
 
 msgid "Don't retract when the travel is entirely within an infill area. That means the oozing can't been seen. This can reduce times of retraction for complex model and save printing time, but make slicing and G-code generating slower. Note that z-hop is also not performed in areas where retraction is skipped."
 msgstr "อย่าถอยกลับเมื่อการเดินทางอยู่ภายในพื้นที่ที่ไส้ในเข้าไปทั้งหมด นั่นหมายความว่าไม่สามารถมองเห็นการรั่วไหลได้ วิธีนี้จะช่วยลดเวลาในการดึงกลับสำหรับโมเดลที่ซับซ้อนและประหยัดเวลาในการพิมพ์ แต่จะทำให้การแบ่งส่วนและการสร้าง G-code ช้าลง โปรดทราบว่า z-hop จะไม่ดำเนินการในพื้นที่ที่มีการข้ามการถอนกลับ"
@@ -15897,7 +15897,7 @@ msgid "Only trigger retraction when the travel distance is longer than this thre
 msgstr "ทริกเกอร์การถอนกลับเมื่อระยะการเดินทางยาวกว่าเกณฑ์นี้เท่านั้น"
 
 msgid "Retract amount before wipe"
-msgstr "ถอนจำนวนก่อนเช็ด"
+msgstr "สัดส่วนการดึงกลับก่อน Wipe"
 
 msgid "This is the length of fast retraction before a wipe, relative to retraction length."
 msgstr "ความยาวของการดึงกลับอย่างรวดเร็วก่อนเช็ด สัมพันธ์กับความยาวการดึงกลับ"
@@ -15916,7 +15916,7 @@ msgstr ""
 "ค่าจะถูกจำกัดด้วย 100% ลบด้วยปริมาณการดึงกลับก่อนค่าเช็ดหัว"
 
 msgid "Retract on layer change"
-msgstr "ถอนออกเมื่อเปลี่ยนเลเยอร์"
+msgstr "ดึงเส้นกลับเมื่อเปลี่ยนเลเยอร์"
 
 msgid "This forces a retraction on layer changes."
 msgstr "บังคับให้ถอนกลับเมื่อเปลี่ยนเลเยอร์"
@@ -15925,7 +15925,7 @@ msgid "Retraction Length"
 msgstr "ระยะดึงกลับ"
 
 msgid "Some amount of material in extruder is pulled back to avoid ooze during long travel. Set zero to disable retraction."
-msgstr "วัสดุบางส่วนในชุดดันเส้นถูกดึงกลับเพื่อหลีกเลี่ยงไม่ให้ซึ่มในระหว่างการเดินทางระยะไกล ตั้งค่าเป็นศูนย์เพื่อปิดใช้งานการเพิกถอน"
+msgstr "วัสดุบางส่วนในชุดดันเส้นถูกดึงกลับเพื่อหลีกเลี่ยงไม่ให้ซึ่มในระหว่างการเดินทางระยะไกล ตั้งเป็น 0 เพื่อปิดการดึงกลับ"
 
 msgid "Long retraction when cut (beta)"
 msgstr "การถอยกลับยาวเมื่อตัด (เบต้า)"
@@ -16049,7 +16049,7 @@ msgid "Speed for retracting filament from the nozzle."
 msgstr "ความเร็วในการดึงเส้นพลาสติกออกจากหัวฉีด"
 
 msgid "Deretraction speed"
-msgstr "ความเร็วในการถอนกลับ"
+msgstr "ความเร็วคืนเส้นหลังดึงกลับ"
 
 msgid "Speed for reloading filament into the nozzle. Zero means same speed of retraction."
 msgstr "ความเร็วในการบรรจุเส้นพลาสติกลงในหัวฉีด ศูนย์หมายถึงความเร็วการถอยกลับเท่ากัน"
@@ -16063,7 +16063,7 @@ msgid "Speed for reloading filament into the nozzle when switching extruder."
 msgstr "ความเร็วในการโหลดเส้นพลาสติกกลับเข้าหัวฉีดเมื่อเปลี่ยนชุดดันเส้น"
 
 msgid "Use firmware retraction"
-msgstr "ใช้การเพิกถอนเฟิร์มแวร์"
+msgstr "ใช้การดึงกลับด้วยเฟิร์มแวร์"
 
 msgid "This experimental setting uses G10 and G11 commands to have the firmware handle the retraction. This is only supported in recent Marlin."
 msgstr "การตั้งค่าทดลองนี้ใช้คำสั่ง G10 และ G11 เพื่อให้เฟิร์มแวร์จัดการกับการเพิกถอน สิ่งนี้รองรับใน Marlin ล่าสุดเท่านั้น"
@@ -16115,13 +16115,13 @@ msgstr ""
 "ปริมาณนี้สามารถระบุได้ในหน่วยมิลลิเมตรหรือเป็นเปอร์เซ็นต์ของเส้นผ่านศูนย์กลางของชุดดันเส้นในปัจจุบัน ค่าเริ่มต้นสำหรับพารามิเตอร์นี้คือ 10%"
 
 msgid "Scarf joint seam (beta)"
-msgstr "รอยต่อเฉียง (เบต้า)"
+msgstr "รอยต่อ Scarf (เบต้า)"
 
 msgid "Use scarf joint to minimize seam visibility and increase seam strength."
-msgstr "ใช้ข้อต่อเฉียงเพื่อลดการมองเห็นรอยตะเข็บและเพิ่มความแข็งแรงของรอยตะเข็บ"
+msgstr "ใช้รอยต่อ Scarf เพื่อลดการมองเห็นรอยตะเข็บและเพิ่มความแข็งแรง"
 
 msgid "Conditional scarf joint"
-msgstr "ข้อต่อเฉียงแบบมีเงื่อนไข"
+msgstr "รอยต่อ Scarf แบบมีเงื่อนไข"
 
 msgid "Apply scarf joints only to smooth perimeters where traditional seams do not conceal the seams at sharp corners effectively."
 msgstr "ใช้ข้อต่อเฉียงกับขอบเรียบเท่านั้น โดยที่รอยตะเข็บแบบเดิมไม่สามารถปกปิดรอยตะเข็บที่มุมแหลมคมได้อย่างมีประสิทธิภาพ"
@@ -16144,19 +16144,19 @@ msgid "This option determines the overhang threshold for the application of scar
 msgstr "ตัวเลือกนี้จะกำหนดเกณฑ์ส่วนยื่นสำหรับการใช้รอยตะเข็บข้อต่อเฉียง หากส่วนที่ไม่ได้รับส่วนรองรับของเส้นรอบวงน้อยกว่าเกณฑ์นี้ จะมีการเย็บรอยตะเข็บเฉียง เกณฑ์เริ่มต้นตั้งไว้ที่ 40% ของความกว้างของผนังภายนอก เมื่อพิจารณาถึงประสิทธิภาพแล้ว ระดับของระยะยื่นจึงถูกประมาณไว้"
 
 msgid "Scarf joint speed"
-msgstr "ความเร็วของข้อต่อเฉียง"
+msgstr "ความเร็วรอยต่อ Scarf"
 
 msgid "This option sets the printing speed for scarf joints. It is recommended to print scarf joints at a slow speed (less than 100 mm/s). It's also advisable to enable 'Extrusion rate smoothing' if the set speed varies significantly from the speed of the outer or inner walls. If the speed specified here is higher than the speed of the outer or inner walls, the printer will default to the slower of the two speeds. When specified as a percentage (e.g., 80%), the speed is calculated based on the respective outer or inner wall speed. The default value is set to 100%."
 msgstr "ตัวเลือกนี้จะตั้งค่าความเร็วในการพิมพ์สำหรับข้อต่อเฉียง ขอแนะนำให้พิมพ์ข้อต่อเฉียงด้วยความเร็วต่ำ (น้อยกว่า 100 มม./วินาที) ขอแนะนำให้เปิดใช้งาน 'การปรับอัตราการอัดรีดให้เรียบ' หากความเร็วที่ตั้งไว้แตกต่างอย่างมากจากความเร็วของผนังด้านนอกหรือด้านใน หากความเร็วที่ระบุที่นี่สูงกว่าความเร็วของผนังด้านนอกหรือด้านใน เครื่องพิมพ์จะตั้งค่าเริ่มต้นไว้ที่ความเร็วที่ช้ากว่าทั้งสอง เมื่อระบุเป็นเปอร์เซ็นต์ (เช่น 80%) ความเร็วจะคำนวณตามความเร็วผนังด้านนอกหรือด้านในตามลำดับ ค่าเริ่มต้นตั้งไว้ที่ 100%"
 
 msgid "Scarf joint flow ratio"
-msgstr "อัตราการไหลของข้อต่อเฉียง"
+msgstr "อัตราส่วนการไหลของรอยต่อ Scarf"
 
 msgid "This factor affects the amount of material for scarf joints."
 msgstr "ปัจจัยนี้ส่งผลต่อปริมาณวัสดุสำหรับข้อต่อเฉียง"
 
 msgid "Scarf start height"
-msgstr "ความสูงเริ่มต้นของเฉียง"
+msgstr "ความสูงเริ่มต้นของรอยต่อ Scarf"
 
 msgid ""
 "Start height of the scarf.\n"
@@ -16166,34 +16166,34 @@ msgstr ""
 "จำนวนนี้สามารถระบุได้ในหน่วยมิลลิเมตรหรือเป็นเปอร์เซ็นต์ของความสูงของเลเยอร์ปัจจุบัน ค่าเริ่มต้นสำหรับพารามิเตอร์นี้คือ 0"
 
 msgid "Scarf around entire wall"
-msgstr "เฉียงพันรอบผนังทั้งหมด"
+msgstr "ใช้ Scarf ตลอดทั้งผนัง"
 
 msgid "The scarf extends to the entire length of the wall."
-msgstr "เฉียงยาวตลอดความยาวของผนัง"
+msgstr "รอยต่อ Scarf ครอบคลุมตลอดความยาวผนัง"
 
 msgid "Scarf length"
-msgstr "ความยาวเฉียง"
+msgstr "ความยาวรอยต่อ Scarf"
 
 msgid "Length of the scarf. Setting this parameter to zero effectively disables the scarf."
-msgstr "ความยาวของเฉียง. การตั้งค่าพารามิเตอร์นี้เป็นศูนย์จะปิดใช้เฉียงอย่างมีประสิทธิภาพ"
+msgstr "ความยาวของรอยต่อ Scarf ตั้งเป็น 0 เพื่อปิดการใช้ Scarf"
 
 msgid "Scarf steps"
-msgstr "ขั้นตอนเฉียง"
+msgstr "จำนวนขั้นของ Scarf"
 
 msgid "Minimum number of segments of each scarf."
-msgstr "จำนวนขั้นต่ำของส่วนเฉียงแต่ละอัน"
+msgstr "จำนวนเซกเมนต์ขั้นต่ำของรอยต่อ Scarf"
 
 msgid "Scarf joint for inner walls"
-msgstr "ข้อต่อเฉียงสำหรับผนังด้านใน"
+msgstr "รอยต่อ Scarf สำหรับผนังด้านใน"
 
 msgid "Use scarf joint for inner walls as well."
-msgstr "ใช้ข้อต่อเฉียงสำหรับผนังด้านในด้วย"
+msgstr "ใช้รอยต่อ Scarf กับผนังด้านในด้วย"
 
 msgid "Role base wipe speed"
-msgstr "ความเร็วในการล้างฐานบทบาท"
+msgstr "ความเร็ว Wipe ตามประเภทเส้นพิมพ์"
 
 msgid "The wipe speed is determined by the speed of the current extrusion role. e.g. if a wipe action is executed immediately following an outer wall extrusion, the speed of the outer wall extrusion will be utilized for the wipe action."
-msgstr "ความเร็วในการเช็ดถูกกำหนดโดยความเร็วของบทบาทการอัดขึ้นรูปในปัจจุบัน เช่น หากการดำเนินการเช็ดถูกดำเนินการทันทีหลังจากการอัดขึ้นรูปผนังด้านนอก ความเร็วของการอัดขึ้นรูปผนังด้านนอกจะถูกใช้สำหรับการดำเนินการเช็ด"
+msgstr "ความเร็ว Wipe จะอิงจากความเร็วของประเภทเส้นพิมพ์ปัจจุบัน เช่น หากการ Wipe เกิดขึ้นทันทีหลังจากพิมพ์ผนังด้านนอก ความเร็วของผนังด้านนอกจะถูกใช้สำหรับการ Wipe"
 
 msgid "Wipe on loops"
 msgstr "เช็ดบนลูป"
@@ -16244,7 +16244,7 @@ msgid "Limits the skirt/draft shield loops to one wall after the first layer. Th
 msgstr "จำกัดห่วงสเกิร์ต/โล่ครอบไว้ที่ผนังด้านหนึ่งหลังจากชั้นแรก สิ่งนี้มีประโยชน์ในบางครั้งเพื่ออนุรักษ์เส้นพลาสติก แต่อาจทำให้โครง/เส้นล้อมชิ้นงานบิดเบี้ยว/แตกร้าวได้"
 
 msgid "Draft shield"
-msgstr "โล่ร่าง"
+msgstr "แนวป้องกันลม (Draft Shield)"
 
 msgid ""
 "A draft shield is useful to protect an ABS or ASA print from warping and detaching from print bed due to wind draft. It is usually needed only with open frame printers, i.e. without an enclosure.\n"
@@ -16984,10 +16984,10 @@ msgid "The wiping tower can be used to clean up residue on the nozzle and stabil
 msgstr "หอเช็ดสามารถใช้เพื่อทำความสะอาดสิ่งตกค้างบนหัวฉีด และทำให้แรงดันในห้องภายในหัวฉีดคงที่ เพื่อหลีกเลี่ยงข้อบกพร่องในลักษณะที่ปรากฏเมื่อพิมพ์วัตถุ"
 
 msgid "Internal ribs"
-msgstr "ซี่โครงภายใน"
+msgstr "ครีบเสริมภายใน"
 
 msgid "Enable internal ribs to increase the stability of the prime tower."
-msgstr "เปิดใช้งานซี่โครงภายในเพื่อเพิ่มความมั่นคงของหอคอยหลัก"
+msgstr "เปิดใช้ครีบเสริมภายในเพื่อเพิ่มความมั่นคงของ Prime Tower"
 
 msgid "Purging volumes"
 msgstr "ปริมาตรการไล่เส้น"
@@ -17007,7 +17007,7 @@ msgid "The flush multiplier used in fast purge mode."
 msgstr "ตัวคูณการไล่เส้นที่ใช้ในโหมดไล่เส้นเร็ว"
 
 msgid "Prime volume"
-msgstr "ปริมาณเฉพาะ"
+msgstr "ปริมาตร Prime"
 
 msgid "This is the volume of material to prime the extruder with on the tower."
 msgstr "ปริมาตรวัสดุสำหรับเตรียมหัวฉีดบนไพรม์ทาวเวอร์"
@@ -17032,10 +17032,10 @@ msgid "This is the width of prime towers."
 msgstr "ความกว้างของไพรม์ทาวเวอร์"
 
 msgid "Wipe tower rotation angle"
-msgstr "เช็ดมุมการหมุนของทาวเวอร์"
+msgstr "มุมหมุนของ Wipe Tower"
 
 msgid "Wipe tower rotation angle with respect to X axis."
-msgstr "เช็ดมุมการหมุนของทาวเวอร์ตามแกน X"
+msgstr "มุมหมุนของ Wipe Tower เทียบกับแกน X"
 
 msgid "Brim width of prime tower, negative number means auto calculated width based on the height of prime tower."
 msgstr "ความกว้างขอบของหอคอยหลัก ตัวเลขติดลบหมายถึงความกว้างที่คำนวณโดยอัตโนมัติตามความสูงของหอคอยหลัก"
@@ -21572,7 +21572,7 @@ msgstr ""
 #~ msgstr "เนื้อหาที่ตั้งไว้ล่วงหน้ามีขนาดใหญ่เกินกว่าจะซิงค์กับระบบคลาวด์ (เกิน 1MB) โปรดลดขนาดที่กำหนดไว้ล่วงหน้าโดยการลบการกำหนดค่าที่กำหนดเองออกหรือใช้เฉพาะในเครื่องเท่านั้น"
 
 #~ msgid "Enable adaptive pressure advance for overhangs (beta)"
-#~ msgstr "เปิดใช้งานการปรับPressure Advanceสำหรับระยะยื่น (เบต้า)"
+#~ msgstr "เปิดใช้ Adaptive Pressure Advance สำหรับส่วนยื่น (เบต้า)"
 
 #~ msgid ""
 #~ "Enable adaptive PA for overhangs as well as when flow changes within the same feature. This is an experimental option, as if the PA profile is not set accurately, it will cause uniformity issues on the external surfaces before and after overhangs.\n"
@@ -21582,7 +21582,7 @@ msgstr ""
 #~ "ไม่รองรับเครื่องพิมพ์ Prusa เพราะจะหยุดชั่วคราวเพื่อประมวลผลการเปลี่ยน PA ทำให้เกิดความล่าช้าและข้อบกพร่อง"
 
 #~ msgid "Pressure advance for bridges"
-#~ msgstr "แรงดันล่วงหน้า (Pressure Advance)สำหรับสะพาน"
+#~ msgstr "Pressure Advance สำหรับสะพาน"
 
 #~ msgid ""
 #~ "Pressure advance value for bridges. Set to 0 to disable.\n"
